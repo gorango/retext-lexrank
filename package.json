@@ -1,0 +1,45 @@
+{
+  "name": "retext-lexrank",
+  "version": "0.0.1",
+  "description": "Lexrank algorithm for retextjs",
+  "main": "src/index.js",
+  "repository": "https://github.com/gorango/retext-lexrank",
+  "author": {
+    "name": "Goran Spasojevic",
+    "email": "gospaso@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "scripts": {
+    "dev": "nodemon example",
+    "test": "nodemon --exec tape test/*.test.js",
+    "coverage": "istanbul cover tape test/*.test.js",
+    "release": "standard-version --infile=changelog.md",
+    "postrelease": "git push --follow-tags origin master"
+  },
+  "dependencies": {
+    "nlcst-to-string": "^2.0.3",
+    "retext-keywords": "^5.0.0",
+    "retext-latin": "^2.0.4",
+    "retext-pos": "^2.0.2",
+    "retext-stringify": "^2.0.4",
+    "stemmer": "^1.0.4",
+    "to-vfile": "^6.0.0",
+    "unified": "^8.4.2",
+    "unist-util-inspect": "^5.0.0",
+    "unist-util-visit": "^2.0.1"
+  },
+  "devDependencies": {
+    "hast-util-to-html": "^6.1.0",
+    "istanbul": "1.1.0-alpha.1",
+    "pretty": "^2.0.0",
+    "pug": "^2.0.4",
+    "standard-version": "^7.0.1",
+    "tape": "^4.13.0",
+    "unist-util-select": "^3.0.0"
+  }
+}
