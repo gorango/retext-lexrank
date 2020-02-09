@@ -4,8 +4,6 @@ const stringify = require('retext-stringify')
 const visit = require('unist-util-visit')
 const toString = require('nlcst-to-string')
 const stemmer = require('stemmer')
-const pos = require('retext-pos')
-const keywords = require('retext-keywords')
 
 module.exports = lexrank
 
@@ -13,33 +11,31 @@ function lexrank (options) {
   return transformer
 
   function transformer (tree, file) {
-    const outliers = entities(file)
-    const scores = score(tree, outliers)
+    /**
+     * keywords (optional): supplied by retext-keywords
+     * provides slightly better results
+     */
+    const { data: { keywords } } = file || { data: { keywords: [] } }
+
+    const scores = score(tree, keywords)
     visit(tree, all(scores))
-  }
-
-  function entities (file) {
-    const { data } = unified()
-      .use(latin)
-      .use(stringify)
-      .use(pos)
-      .use(keywords, { maximum: 6 })
-      .processSync(file) || {}
-
-    return data && data.keywords.map(({ stem, score }) => ({ stem, score }))
   }
 }
 
-function score (tree, outliers) {
-  const entities = outliers.reduce((arr, { stem, score }, index) => {
-    const count = Math.round(score * (outliers.length - index))
+function score (tree, keywords = []) {
+  /**
+   * Produce an additional sentence to add to the text,
+   * containing the top keywords in proportional frequency
+   */
+  const entities = keywords.reduce((arr, { stem, score }, index) => {
+    const count = Math.round(score * (keywords.length - index))
     return arr.concat(Array(count).fill(stem))
   }, [])
-  const sentences = extract(tree).concat([entities])
+  const extracted = extract(tree)
+  const sentences = keywords.length ? extracted.concat([entities]) : extracted
   const matrix = wordsMatrix(sentences)
-  const ranked = eigenValues(matrix, sentences).slice(0, -1)
-
-  return ranked
+  const ranked = eigenValues(matrix, sentences)
+  return keywords.length ? ranked.slice(0, -1) : ranked
 }
 
 function all (scores) {
@@ -52,7 +48,6 @@ function all (scores) {
       data.lexrank = scores[index]
       node.data = data
     }
-    // return node
   }
 }
 
@@ -103,7 +98,11 @@ function wordsMatrix (sentences) {
 
 function normalize (arr) {
   const ratio = Math.max(...arr) / 100
-  return arr.map(num => num / ratio / 100)
+  return arr.map(num => {
+    return num < ratio ? num : num / ratio / 100
+    // if num < ratio, it's largely inconsequential to the top scores
+    // however, applying the formula can produce numbers that fall out of `sort` range
+  })
 }
 
 function tanimoto (a, b) {
