@@ -1,35 +1,38 @@
+const fs = require('fs')
+const path = require('path')
 const test = require('tape')
-const unified = require('unified')
 const vfile = require('to-vfile')
+const unified = require('unified')
 const latin = require('retext-latin')
-const { selectAll } = require('unist-util-select')
 
 const lexrank = require('../src')
 
-const processor = unified()
-  .use(latin)
-  .use(lexrank)
-  .freeze()
+test('Fixtures', function(t) {
+  const root = path.join(__dirname, '../fixtures')
 
-const fixtures = [
-  'essay.txt',
-]
+  fs.readdirSync(root)
+    .forEach(async function(fixture) {
+      const input = path.join(root, fixture, 'input.txt')
+      const output = path.join(root, fixture, 'output.json')
+      const file = vfile.readSync(input, 'utf-8')
+      const processor = unified()
+        .use(latin)
+        .use(lexrank)
 
-test('Scores sentiment', t => {
-  for (const fixture of fixtures) {
-    const path = `fixtures/${fixture}`
-    const file = vfile.readSync(path)
-    const tree = processor.parse(file)
+      const actual = processor.parse(file)
+      processor.run(actual, file)
 
-    processor.run(tree, file)
+      let expected
 
-    const sentences = selectAll('SentenceNode', tree)
-    const ranked = sentences.reduce((hasRank, sentence) => {
-      return hasRank && 'lexrank' in sentence.data
-    }, true)
+      try {
+        expected = JSON.parse(fs.readFileSync(output))
+      } catch (error) {
+        fs.writeFileSync(output, JSON.stringify(actual, null, 2) + '\n')
+        return
+      }
 
-    t.assert(ranked, `All sentences in ${fixture} have a rank`)
-  }
+      t.deepEqual(actual, expected, 'should work on `' + fixture + '`')
+    })
 
   t.end()
 })
