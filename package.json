@@ -1,6 +1,6 @@
 {
   "name": "retext-lexrank",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lexrank algorithm for retextjs",
   "main": "src/index.js",
   "repository": "https://github.com/gorango/retext-lexrank",
