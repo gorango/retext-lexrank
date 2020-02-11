@@ -13,7 +13,7 @@ const processor = unified()
   // .use(keywords)
   .use(lexrank)
 
-const file = vfile.readSync('fixtures/vervake/input.txt')
+const file = vfile.readSync('fixtures/onezero_ai-listening-ethics/input.txt')
 const tree = processor.parse(file)
 
 processor.run(tree, file)
@@ -26,9 +26,10 @@ const top = ranks.sort().slice(- Math.round(ranks.length * .2))
 const mid = ranks.sort().slice(Math.round(ranks.length * .3), - Math.round(ranks.length * .3))
 const bot = ranks.sort().slice(0, Math.round(ranks.length * .2))
 
-console.log(Math.max(...top) - Math.min(...top))
-console.log(Math.max(...mid) - Math.min(...mid))
-console.log(Math.max(...bot) - Math.min(...bot))
+// console.log(Math.max(...top) - Math.min(...top))
+// console.log(Math.max(...mid) - Math.min(...mid))
+// console.log(Math.max(...bot) - Math.min(...bot))
+console.log(ranks)
 
 function getRanks (tree) {
   let data = []

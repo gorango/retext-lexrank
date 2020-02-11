@@ -82,7 +82,7 @@ function eigenValues (matrix, sentences) {
   Array(10).fill().forEach(() => {
     let w = Array(sentences.length).fill(0)
     sentences.forEach((_, i) => sentences.forEach((_, j) => {
-      w[i] = w[i] + matrix[i][j] * eigen[j]
+      w[i] = w[i] + (matrix[i][j] || 0) * eigen[j]
     }))
     eigen = normalize(w)
   })
@@ -106,8 +106,10 @@ function normalize (arr) {
 }
 
 function tanimoto (a, b) {
+  if (!a.length && !b.length) return 0
+
   const [A, B] = [new Set(a), new Set(b)]
   const intersection = new Set([...A].filter(x => B.has(x)))
   const inclusion = Array.from(intersection).length
-  return (inclusion / (a.length + b.length - inclusion))
+  return (inclusion / (a.length + b.length - inclusion)) || 0
 }
