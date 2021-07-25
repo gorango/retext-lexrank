@@ -769,9 +769,10 @@ through@^2.3.8, through@~2.3.4:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=
 
-to-vfile@vfile/to-vfile:
+to-vfile@^7.2.1:
   version "7.2.1"
-  resolved "https://codeload.github.com/vfile/to-vfile/tar.gz/e53c05cebe1d8fee64e3f31bcb84b7545f24fffa"
+  resolved "https://registry.yarnpkg.com/to-vfile/-/to-vfile-7.2.1.tgz#fe42892024f724177ba81076f98ee74b0888c293"
+  integrity sha512-biljADNq2n+AZn/zX+/87zStnIqctKr/q5OaOD8+qSKINokUGPbWBShvxa1iLUgHz6dGGjVnQPNoFRtVBzMkVg==
   dependencies:
     is-buffer "^2.0.0"
     vfile "^5.0.0"
