@@ -1,28 +1,20 @@
 {
   "name": "retext-lexrank",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Lexrank algorithm for retextjs",
   "repository": "https://github.com/gorango/retext-lexrank",
-  "type": "module",
-  "sideEffects": false,
-  "main": "src/index.js",
   "author": {
     "name": "Goran Spasojevic",
     "email": "gospaso@gmail.com"
   },
   "license": "MIT",
-  "engines": {
-    "node": ">= 10.0.0",
-    "npm": ">= 5.6.0",
-    "yarn": ">= 1.6.0"
-  },
   "scripts": {
-    "dev": "nodemon sandbox/example",
     "test:dev": "npx nodemon --conditions development test.js",
-    "test": "c8 --check-coverage --branches 100 --functions 100 --lines 90 --statements 100 --reporter lcov node --conditions development test.js",
-    "release": "standard-version --infile=changelog.md",
-    "postrelease": "git push --follow-tags origin master"
+    "test": "c8 --check-coverage --branches 100 --functions 100 --lines 90 --statements 100 --reporter lcov node --conditions development test.js"
   },
+  "type": "module",
+  "sideEffects": false,
+  "main": "src/index.js",
   "dependencies": {
     "nlcst-to-string": "^3.0.1",
     "stemmer": "^2.0.0",
