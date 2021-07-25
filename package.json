@@ -23,7 +23,7 @@
   "devDependencies": {
     "c8": "^7.7.3",
     "retext-latin": "^3.0.0",
-    "to-vfile": "https://github.com/vfile/to-vfile",
+    "to-vfile": "vfile/to-vfile",
     "tape": "^5.2.2"
   },
   "prettier": {
