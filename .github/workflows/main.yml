@@ -11,11 +11,15 @@ jobs:
       - uses: dcodeIO/setup-node-nvm@master
         with:
           node-version: ${{matrix.node}}
-      - run: npm install
-      - run: npm test
+      - uses: borales/actions-yarn@v2.3.0
+        with:
+          cmd: install
+      - uses: borales/actions-yarn@v2.3.0
+        with:
+          cmd: test
       - uses: codecov/codecov-action@v2.0.2
     strategy:
       matrix:
         node:
-          - lts/fermium
+          - lts/erbium
           - node
