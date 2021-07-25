@@ -10,7 +10,7 @@
   "license": "MIT",
   "scripts": {
     "test:dev": "npx nodemon --conditions development test.js",
-    "test": "c8 --check-coverage --branches 90 --functions 90 --lines 90 --statements 90 --reporter lcov node --conditions development test.js"
+    "test": "c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node --conditions development test.js"
   },
   "type": "module",
   "sideEffects": false,
@@ -22,9 +22,11 @@
   },
   "devDependencies": {
     "c8": "^7.7.3",
+    "retext-keywords": "^7.0.0",
     "retext-latin": "^3.0.0",
-    "to-vfile": "^7.2.1",
-    "tape": "^5.2.2"
+    "retext-pos": "^4.0.0",
+    "tape": "^5.2.2",
+    "to-vfile": "^7.2.1"
   },
   "prettier": {
     "tabWidth": 2,

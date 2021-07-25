@@ -11,12 +11,8 @@ jobs:
       - uses: dcodeIO/setup-node-nvm@master
         with:
           node-version: ${{matrix.node}}
-      - uses: borales/actions-yarn@v2.3.0
-        with:
-          cmd: install
-      - uses: borales/actions-yarn@v2.3.0
-        with:
-          cmd: test
+      - run: npm install
+      - run: npm test
       - uses: codecov/codecov-action@v2.0.2
     strategy:
       matrix:

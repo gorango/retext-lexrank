@@ -12,11 +12,7 @@ function lexrank(options) {
      * keywords (optional): supplied by retext-keywords
      * provides slightly better results
      */
-    const {
-      data: { keywords }
-    } = file || { data: { keywords: [] } }
-
-    const scores = score(tree, keywords)
+    const scores = score(tree, file.data?.keywords)
     visit(tree, all(scores))
   }
 }
