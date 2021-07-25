@@ -2,7 +2,6 @@
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
 NodeJS implementation of [Radev's Lexrank algorithm][paper] for unsupervised text summarization. Essentially applying PageRank to each sentence in a document and ranking each one for relevance to the entire text.
