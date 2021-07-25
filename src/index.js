@@ -1,28 +1,27 @@
-const unified = require('unified')
-const latin = require('retext-latin')
-const stringify = require('retext-stringify')
-const visit = require('unist-util-visit')
-const toString = require('nlcst-to-string')
-const stemmer = require('stemmer')
+import { visit } from 'unist-util-visit'
+import { toString } from 'nlcst-to-string'
+import { stemmer } from 'stemmer'
 
-module.exports = lexrank
+export default lexrank
 
-function lexrank (options) {
+function lexrank(options) {
   return transformer
 
-  function transformer (tree, file) {
+  function transformer(tree, file) {
     /**
      * keywords (optional): supplied by retext-keywords
      * provides slightly better results
      */
-    const { data: { keywords } } = file || { data: { keywords: [] } }
+    const {
+      data: { keywords }
+    } = file || { data: { keywords: [] } }
 
     const scores = score(tree, keywords)
     visit(tree, all(scores))
   }
 }
 
-function score (tree, keywords = []) {
+function score(tree, keywords = []) {
   /**
    * Produce an additional sentence to add to the text,
    * containing the top keywords in proportional frequency
@@ -38,10 +37,10 @@ function score (tree, keywords = []) {
   return keywords.length ? ranked.slice(0, -1) : ranked
 }
 
-function all (scores) {
+function all(scores) {
   let index = -1
 
-  return function patch (node, i, parent) {
+  return function patch(node, i, parent) {
     if (node.type === 'SentenceNode') {
       index = index + 1
       const data = node.data || {}
@@ -51,19 +50,25 @@ function all (scores) {
   }
 }
 
-function extract (tree) {
+function extract(tree) {
   return tree.children.reduce((paragraphs, paragraph) => {
-    if (paragraph.type !== 'ParagraphNode') { return paragraphs }
+    if (paragraph.type !== 'ParagraphNode') {
+      return paragraphs
+    }
 
     return [
       ...paragraphs,
       ...paragraph.children.reduce((sentences, sentence) => {
-        if (sentence.type !== 'SentenceNode') { return sentences }
+        if (sentence.type !== 'SentenceNode') {
+          return sentences
+        }
 
         return [
           ...sentences,
           sentence.children.reduce((words, word) => {
-            if (word.type !== 'WordNode') { return words }
+            if (word.type !== 'WordNode') {
+              return words
+            }
 
             const string = toString(word)
             const stem = stemmer(string)
@@ -76,40 +81,44 @@ function extract (tree) {
   }, [])
 }
 
-function eigenValues (matrix, sentences) {
+function eigenValues(matrix, sentences) {
   let eigen = Array(sentences.length).fill(1)
 
-  Array(10).fill().forEach(() => {
-    let w = Array(sentences.length).fill(0)
-    sentences.forEach((_, i) => sentences.forEach((_, j) => {
-      w[i] = w[i] + (matrix[i][j] || 0) * eigen[j]
-    }))
-    eigen = normalize(w)
-  })
+  Array(10)
+    .fill()
+    .forEach(() => {
+      let w = Array(sentences.length).fill(0)
+      sentences.forEach((_, i) =>
+        sentences.forEach((_, j) => {
+          w[i] = w[i] + (matrix[i][j] || 0) * eigen[j]
+        })
+      )
+      eigen = normalize(w)
+    })
 
   return eigen
 }
 
-function wordsMatrix (sentences) {
-  return sentences.map(sen1 => normalize(
-    sentences.map(sen2 => tanimoto(sen1, sen2))
-  ))
+function wordsMatrix(sentences) {
+  return sentences.map((sen1) =>
+    normalize(sentences.map((sen2) => tanimoto(sen1, sen2)))
+  )
 }
 
-function normalize (arr) {
+function normalize(arr) {
   const ratio = Math.max(...arr) / 100
-  return arr.map(num => {
+  return arr.map((num) => {
     return num < ratio ? num : num / ratio / 100
     // if num < ratio, it's largely inconsequential to the top scores
     // however, applying the formula can produce numbers that fall out of `sort` range
   })
 }
 
-function tanimoto (a, b) {
+function tanimoto(a, b) {
   if (!a.length && !b.length) return 0
 
   const [A, B] = [new Set(a), new Set(b)]
-  const intersection = new Set([...A].filter(x => B.has(x)))
+  const intersection = new Set([...A].filter((x) => B.has(x)))
   const inclusion = Array.from(intersection).length
-  return (inclusion / (a.length + b.length - inclusion)) || 0
+  return inclusion / (a.length + b.length - inclusion) || 0
 }

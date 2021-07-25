@@ -2,8 +2,10 @@
   "name": "retext-lexrank",
   "version": "0.0.2",
   "description": "Lexrank algorithm for retextjs",
-  "main": "src/index.js",
   "repository": "https://github.com/gorango/retext-lexrank",
+  "type": "module",
+  "sideEffects": false,
+  "main": "src/index.js",
   "author": {
     "name": "Goran Spasojevic",
     "email": "gospaso@gmail.com"
@@ -16,27 +18,28 @@
   },
   "scripts": {
     "dev": "nodemon sandbox/example",
-    "test": "nodemon --exec tape test/*.test.js -i fixtures",
-    "coverage": "istanbul cover tape test/*.test.js",
+    "test:dev": "npx nodemon --conditions development test.js",
+    "test": "c8 --check-coverage --branches 100 --functions 100 --lines 90 --statements 100 --reporter lcov node --conditions development test.js",
     "release": "standard-version --infile=changelog.md",
     "postrelease": "git push --follow-tags origin master"
   },
   "dependencies": {
-    "nlcst-to-string": "^2.0.3",
-    "retext-latin": "^2.0.4",
-    "retext-stringify": "^2.0.4",
-    "stemmer": "^1.0.4",
-    "to-vfile": "^6.0.0",
-    "unified": "^8.4.2",
-    "unist-util-visit": "^2.0.1"
+    "nlcst-to-string": "^3.0.1",
+    "stemmer": "^2.0.0",
+    "unist-util-visit": "^3.1.0"
   },
   "devDependencies": {
-    "istanbul": "1.1.0-alpha.1",
-    "pretty": "^2.0.0",
-    "retext-keywords": "^5.0.0",
-    "retext-pos": "^2.0.2",
-    "standard-version": "^7.0.1",
-    "tape": "^4.13.0",
-    "unist-util-inspect": "^5.0.0"
+    "c8": "^7.7.3",
+    "retext-latin": "^3.0.0",
+    "to-vfile": "https://github.com/vfile/to-vfile",
+    "tape": "^5.2.2"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": true,
+    "semi": false,
+    "trailingComma": "none"
   }
 }
