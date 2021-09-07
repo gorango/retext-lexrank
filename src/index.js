@@ -4,24 +4,17 @@ import { stemmer } from 'stemmer'
 
 export default lexrank
 
-function lexrank(options) {
+function lexrank() {
   return transformer
 
   function transformer(tree, file) {
-    /**
-     * keywords (optional): supplied by retext-keywords
-     * provides slightly better results
-     */
+    // keywords (optional): supplied by retext-keywords (provides slightly better results)
     const scores = score(tree, file.data?.keywords)
     visit(tree, all(scores))
   }
 }
 
 function score(tree, keywords = []) {
-  /**
-   * Produce an additional sentence to add to the text,
-   * containing the top keywords in proportional frequency
-   */
   const entities = keywords.reduce((arr, { stem, score }, index) => {
     const count = Math.round(score * (keywords.length - index))
     return arr.concat(Array(count).fill(stem))
@@ -36,7 +29,7 @@ function score(tree, keywords = []) {
 function all(scores) {
   let index = -1
 
-  return function patch(node, i, parent) {
+  return function (node) {
     if (node.type === 'SentenceNode') {
       index = index + 1
       const data = node.data || {}
