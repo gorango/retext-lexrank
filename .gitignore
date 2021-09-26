@@ -1,3 +1,4 @@
 node_modules
 coverage
-output.html
+yarn.lock
+package-lock.json
