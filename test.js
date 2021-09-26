@@ -6,8 +6,7 @@ import { unified } from 'unified'
 import pos from 'retext-pos'
 import keywords from 'retext-keywords'
 import latin from 'retext-latin'
-
-import lexrank from './src/index.js'
+import lexrank from './index.js'
 
 test('Fixtures', function (t) {
   const root = path.join('./fixtures')

@@ -2,19 +2,20 @@
   "name": "retext-lexrank",
   "version": "1.0.0",
   "description": "Lexrank algorithm for retextjs",
-  "repository": "https://github.com/gorango/retext-lexrank",
-  "author": {
-    "name": "Goran Spasojevic",
-    "email": "gospaso@gmail.com"
-  },
   "license": "MIT",
-  "scripts": {
-    "test:dev": "npx nodemon --conditions development test.js",
-    "test": "c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node --conditions development test.js"
-  },
+  "author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
+  "repository": "https://github.com/gorango/retext-lexrank",
+  "bugs": "https://github.com/gorango/retext-lexrank/issues",
   "type": "module",
   "sideEffects": false,
-  "main": "src/index.js",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "coverage": "npx c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node --conditions development test.js"
+  },
   "dependencies": {
     "nlcst-to-string": "^3.0.1",
     "stemmer": "^2.0.0",
@@ -35,5 +36,8 @@
     "bracketSpacing": true,
     "semi": false,
     "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true
   }
 }
