@@ -8,13 +8,15 @@ function lexrank() {
   return transformer
 
   function transformer(tree, file) {
-    // keywords (optional): supplied by retext-keywords (provides slightly better results)
-    const scores = score(tree, file.data?.keywords)
+    // keywords (optionally supplied with `retext-keywords`)
+    const keywords = file.data?.keywords
+    const scores = score(tree, keywords)
     visit(tree, all(scores))
   }
 }
 
 function score(tree, keywords = []) {
+  // using `keywords` provides slightly more polarized results
   const entities = keywords.reduce((arr, { stem, score }, index) => {
     const count = Math.round(score * (keywords.length - index))
     return arr.concat(Array(count).fill(stem))
