@@ -1,6 +1,6 @@
 {
   "name": "retext-lexrank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lexrank algorithm for retextjs",
   "license": "MIT",
   "author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
