@@ -8,30 +8,20 @@ function lexrank() {
   return transformer
 
   function transformer(tree, file) {
-    // keywords (optionally supplied with `retext-keywords`)
-    const keywords = file.data?.keywords
+    // keywords (optionally supplied with `retext-keywords`) yields more polarized results
+    const keywords = (file.data?.keywords || []).reduce((arr, { stem, score }, index, keywords) => {
+      const count = Math.round(score * (keywords.length - index))
+      return arr.concat(Array(count).fill(stem))
+    }, [])
     const scores = score(tree, keywords)
-    visit(tree, all(scores))
+    visit(tree, collect(scores))
   }
 }
 
-function score(tree, keywords = []) {
-  // using `keywords` provides slightly more polarized results
-  const entities = keywords.reduce((arr, { stem, score }, index) => {
-    const count = Math.round(score * (keywords.length - index))
-    return arr.concat(Array(count).fill(stem))
-  }, [])
-  const extracted = extract(tree)
-  const sentences = keywords.length ? extracted.concat([entities]) : extracted
-  const matrix = wordsMatrix(sentences)
-  const ranked = eigenValues(matrix, sentences)
-  return keywords.length ? ranked.slice(0, -1) : ranked
-}
-
-function all(scores) {
+function collect(scores) {
   let index = -1
 
-  return function (node) {
+  return node => {
     if (node.type === 'SentenceNode') {
       index = index + 1
       const data = node.data || {}
@@ -41,30 +31,48 @@ function all(scores) {
   }
 }
 
+function score(tree, keywords) {
+  const paragraphs = extract(tree)
+  const sentences = flatten(paragraphs)
+  const pScores = calculate(sentences)
+
+  if (paragraphs.length < 7) {
+    return pScores
+  }
+
+  const sScores = flatten(paragraphs.map(calculate))
+  return sScores.map((sScore, i) => (sScore + pScores[i]) / 2)
+
+  function calculate(sentences) {
+    if (sentences.length === 1) return [0.5]
+    sentences = [...sentences, ...(keywords.length ? [keywords] : [])]
+    const matrix = wordsMatrix(sentences)
+    const ranked = eigenValues(matrix, sentences)
+    return keywords.length ? ranked.slice(0, -1) : ranked
+  }
+}
+
 function extract(tree) {
-  return tree.children.reduce((paragraphs, paragraph) => {
-    if (paragraph.type !== 'ParagraphNode') {
+  return tree.children.reduce((paragraphs, node) => {
+    if (node.type !== 'ParagraphNode') {
       return paragraphs
     }
 
     return [
       ...paragraphs,
-      ...paragraph.children.reduce((sentences, sentence) => {
-        if (sentence.type !== 'SentenceNode') {
+      node.children.reduce((sentences, node) => {
+        if (node.type !== 'SentenceNode') {
           return sentences
         }
 
         return [
           ...sentences,
-          sentence.children.reduce((words, word) => {
-            if (word.type !== 'WordNode') {
+          node.children.reduce((words, node) => {
+            if (node.type !== 'WordNode') {
               return words
             }
 
-            const string = toString(word)
-            const stem = stemmer(string)
-
-            return words.concat(stem)
+            return words.concat(stemmer(toString(node)))
           }, [])
         ]
       }, [])
@@ -81,7 +89,7 @@ function eigenValues(matrix, sentences) {
       let w = Array(sentences.length).fill(0)
       sentences.forEach((_, i) =>
         sentences.forEach((_, j) => {
-          w[i] = w[i] + (matrix[i][j] || 0) * eigen[j]
+          w[i] = w[i] + matrix[i][j] * eigen[j]
         })
       )
       eigen = normalize(w)
@@ -91,9 +99,7 @@ function eigenValues(matrix, sentences) {
 }
 
 function wordsMatrix(sentences) {
-  return sentences.map((sen1) =>
-    normalize(sentences.map((sen2) => tanimoto(sen1, sen2)))
-  )
+  return sentences.map(senA => normalize(sentences.map(senB => tanimoto(senA, senB))))
 }
 
 function normalize(arr) {
@@ -107,7 +113,11 @@ function tanimoto(a, b) {
   if (!a.length && !b.length) return 0
 
   const [A, B] = [new Set(a), new Set(b)]
-  const intersection = new Set([...A].filter((x) => B.has(x)))
+  const intersection = new Set([...A].filter(x => B.has(x)))
   const inclusion = Array.from(intersection).length
   return inclusion / (a.length + b.length - inclusion) || 0
+}
+
+function flatten(arr) {
+  return arr.reduce((a, b) => [...a, ...b], [])
 }
