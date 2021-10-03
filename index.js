@@ -97,12 +97,10 @@ function wordsMatrix(sentences) {
 }
 
 function normalize(arr) {
-  const ratio = Math.max(...arr) / 100
-  return arr.map((num) => {
-    return num < ratio ? num : num / ratio / 100
-    // if num < ratio, it's largely inconsequential to the top scores
-    // however, applying the formula can produce numbers that fall out of `sort` range
-  })
+  const distance = Math.sqrt(arr.reduce((d, n) => d + n * n, 0))
+  const result = arr.map(n => (distance ? n / distance : 0))
+  const [min, max] = [Math.min(...result), Math.max(...result) || 1]
+  return result.map(n => (n - min) / max)
 }
 
 function tanimoto(a, b) {
