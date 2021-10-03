@@ -30,6 +30,25 @@ const tree = processor.parse(file)
 processor.run(tree, file)
 ```
 
+## Use with [`retext-keywords`][keywords]
+
+Adding the [part-of-speech][pos] and [keywords][keywords] plugins to the pipeline yields more polarized results.
+
+<!-- prettier-ignore -->
+```js
+import { unified } from 'unified'
+import latin from 'retext-latin'
+import pos from 'retext-pos'
+import keywords from 'retext-keywords'
+import lexrank from 'retext-lexrank'
+
+const processor = unified()
+  .use(latin)
+  .use(pos)
+  .use(keywords)
+  .use(lexrank)
+```
+
 # Example
 
 > **Disclaimer**
@@ -107,6 +126,8 @@ Run `npm coverage` to produce a test coverage report.
 [size]: https://bundlephobia.com/result?p=retext-lexrank
 [retext]: https://github.com/retextjs/retext
 [pos]: https://github.com/retextjs/retext-pos
+[keywords]: https://github.com/retextjs/retext-keywords
+[paper]: https://arxiv.org/abs/1109.2128
 [unified-case]: https://unifiedjs.com/community/case/
 [write-music]: https://wooorm.com/write-music/
 [license]: license
