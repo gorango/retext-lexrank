@@ -4,7 +4,7 @@
 [![Coverage][coverage-badge]][coverage]
 [![Size][size-badge]][size]
 
-[Retext][retext] plugin implementation of [Radev's Lexrank algorithm][paper] for unsupervised text summarization. Essentially applying PageRank to each sentence in a document and ranking each one for relevance to the entire text.
+[Retext][retext] plugin for generating unsupervised text summarization using the [Lexrank algorithm][paper].
 
 ## Install
 
@@ -16,7 +16,7 @@ npm i --save retext-lexrank
 
 <!-- prettier-ignore -->
 ```js
-import {unified} from 'unified'
+import { unified } from 'unified'
 import latin from 'retext-latin'
 import lexrank from 'retext-lexrank'
 
@@ -64,19 +64,17 @@ Don't just write words. Write music.
 
 Supplying the above text to the [`processor`](#use), we can then find the top-ranked sentences:
 
-<!-- prettier-ignore -->
 ```js
-import {selectAll} from 'unist-util-select'
-import {toString} from 'nlcst-to-string'
+import { selectAll } from 'unist-util-select'
+import { toString } from 'nlcst-to-string'
 
-const topSentences = selectAll('SentenceNode', tree)
-  .sort(({data: {lexrank: a}}, {data: {lexrank: b}}) => b - a)
+selectAll('SentenceNode', tree)
+  .sort(({ data: { lexrank: a } }, { data: { lexrank: b } }) => b - a)
   .slice(0, 3)
-
-topSentences.forEach((sentence) => {
-  const score = sentence.data.lexrank.toFixed(2)
-  console.log(`[${score}]: ${toString(sentence)}`)
-})
+  .forEach(sentence => {
+    const score = sentence.data.lexrank.toFixed(2)
+    console.log(`[${score}]: ${toString(sentence)}`)
+  })
 ```
 
 Running the above yields:
@@ -108,7 +106,7 @@ Run `npm coverage` to produce a test coverage report.
 [size-badge]: https://img.shields.io/bundlephobia/minzip/retext-lexrank.svg
 [size]: https://bundlephobia.com/result?p=retext-lexrank
 [retext]: https://github.com/retextjs/retext
-[paper]: http://www.jair.org/papers/paper1523.html
+[pos]: https://github.com/retextjs/retext-pos
 [unified-case]: https://unifiedjs.com/community/case/
 [write-music]: https://wooorm.com/write-music/
 [license]: license
