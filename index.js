@@ -8,14 +8,17 @@ function lexrank() {
   return transformer
 
   function transformer(tree, file) {
-    // keywords (optionally supplied with `retext-keywords`) yields more polarized results
-    const keywords = (file.data?.keywords || []).reduce((arr, { stem, score }, index, keywords) => {
-      const count = Math.round(score * (keywords.length - index))
-      return arr.concat(Array(count).fill(stem))
-    }, [])
-    const scores = score(tree, keywords)
+    const scores = score(tree, getKeywords(file))
     visit(tree, collect(scores))
   }
+}
+
+// keywords (optionally supplied with `retext-keywords`) yields more polarized results
+function getKeywords(file) {
+  return (file.data?.keywords || []).reduce((arr, { stem, score }, index, keywords) => {
+    const count = Math.round(score * (keywords.length - index))
+    return arr.concat(Array(count).fill(stem))
+  }, [])
 }
 
 function collect(scores) {
