@@ -75,7 +75,11 @@ function extract(tree) {
               return words
             }
 
-            return words.concat(stemmer(toString(node)))
+            const stem = stemmer(toString(node))
+            const data = node.data || {}
+            data.stem = stem
+            node.data = data
+            return words.concat(stem)
           }, [])
         ]
       }, [])
