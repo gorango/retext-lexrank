@@ -38,6 +38,9 @@
                   "column": 4,
                   "offset": 3
                 }
+              },
+              "data": {
+                "stem": "gen"
               }
             },
             {
@@ -87,6 +90,9 @@
                   "column": 6,
                   "offset": 5
                 }
+              },
+              "data": {
+                "stem": "x"
               }
             },
             {
@@ -136,6 +142,9 @@
                   "column": 11,
                   "offset": 10
                 }
+              },
+              "data": {
+                "stem": "will"
               }
             },
             {
@@ -185,6 +194,9 @@
                   "column": 15,
                   "offset": 14
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -234,6 +246,9 @@
                   "column": 18,
                   "offset": 17
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -283,6 +298,9 @@
                   "column": 26,
                   "offset": 25
                 }
+              },
+              "data": {
+                "stem": "quietli"
               }
             }
           ],
@@ -369,6 +387,9 @@
                   "column": 3,
                   "offset": 29
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -418,6 +439,9 @@
                   "column": 8,
                   "offset": 34
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -467,6 +491,9 @@
                   "column": 15,
                   "offset": 41
                 }
+              },
+              "data": {
+                "stem": "alwai"
               }
             },
             {
@@ -516,6 +543,9 @@
                   "column": 21,
                   "offset": 47
                 }
+              },
+              "data": {
+                "stem": "live"
               }
             },
             {
@@ -565,6 +595,9 @@
                   "column": 26,
                   "offset": 52
                 }
+              },
+              "data": {
+                "stem": "loud"
               }
             },
             {
@@ -630,6 +663,9 @@
                   "column": 31,
                   "offset": 57
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -711,6 +747,9 @@
                   "column": 37,
                   "offset": 63
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -760,6 +799,9 @@
                   "column": 41,
                   "offset": 67
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -809,6 +851,9 @@
                   "column": 47,
                   "offset": 73
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -858,6 +903,9 @@
                   "column": 50,
                   "offset": 76
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -907,6 +955,9 @@
                   "column": 57,
                   "offset": 83
                 }
+              },
+              "data": {
+                "stem": "chang"
               }
             },
             {
@@ -956,6 +1007,9 @@
                   "column": 62,
                   "offset": 88
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             }
           ],
@@ -1042,6 +1096,9 @@
                   "column": 5,
                   "offset": 94
                 }
+              },
+              "data": {
+                "stem": "ggen"
               }
             },
             {
@@ -1091,6 +1148,9 @@
                   "column": 7,
                   "offset": 96
                 }
+              },
+              "data": {
+                "stem": "x"
               }
             },
             {
@@ -1140,6 +1200,9 @@
                   "column": 15,
                   "offset": 104
                 }
+              },
+              "data": {
+                "stem": "refus"
               }
             },
             {
@@ -1189,6 +1252,9 @@
                   "column": 18,
                   "offset": 107
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -1238,6 +1304,9 @@
                   "column": 22,
                   "offset": 111
                 }
+              },
+              "data": {
+                "stem": "die"
               }
             },
             {
@@ -1287,6 +1356,9 @@
                   "column": 27,
                   "offset": 116
                 }
+              },
+              "data": {
+                "stem": "with"
               }
             },
             {
@@ -1336,6 +1408,9 @@
                   "column": 35,
                   "offset": 124
                 }
+              },
+              "data": {
+                "stem": "digniti"
               }
             },
             {
@@ -1421,6 +1496,9 @@
                   "column": 39,
                   "offset": 128
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -1470,6 +1548,9 @@
                   "column": 44,
                   "offset": 133
                 }
+              },
+              "data": {
+                "stem": "will"
               }
             },
             {
@@ -1519,6 +1600,9 @@
                   "column": 48,
                   "offset": 137
                 }
+              },
+              "data": {
+                "stem": "die"
               }
             },
             {
@@ -1568,6 +1652,9 @@
                   "column": 51,
                   "offset": 140
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -1617,6 +1704,9 @@
                   "column": 55,
                   "offset": 144
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -1666,6 +1756,9 @@
                   "column": 62,
                   "offset": 151
                 }
+              },
+              "data": {
+                "stem": "spirit"
               }
             },
             {
@@ -1715,6 +1808,9 @@
                   "column": 65,
                   "offset": 154
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -1764,6 +1860,9 @@
                   "column": 71,
                   "offset": 160
                 }
+              },
+              "data": {
+                "stem": "grace"
               }
             },
             {
@@ -1813,6 +1912,9 @@
                   "column": 77,
                   "offset": 166
                 }
+              },
+              "data": {
+                "stem": "jone"
               }
             },
             {
@@ -1862,6 +1964,9 @@
                   "column": 81,
                   "offset": 170
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -1911,6 +2016,9 @@
                   "column": 88,
                   "offset": 177
                 }
+              },
+              "data": {
+                "stem": "poison"
               }
             },
             {
@@ -1976,6 +2084,9 @@
                   "column": 95,
                   "offset": 184
                 }
+              },
+              "data": {
+                "stem": "thank"
               }
             },
             {
@@ -2025,6 +2136,9 @@
                   "column": 99,
                   "offset": 188
                 }
+              },
+              "data": {
+                "stem": "you"
               }
             },
             {
@@ -2090,6 +2204,9 @@
                   "column": 103,
                   "offset": 192
                 }
+              },
+              "data": {
+                "stem": "as"
               }
             },
             {
@@ -2139,6 +2256,9 @@
                   "column": 106,
                   "offset": 195
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -2188,6 +2308,9 @@
                   "column": 114,
                   "offset": 203
                 }
+              },
+              "data": {
+                "stem": "express"
               }
             },
             {
@@ -2237,6 +2360,9 @@
                   "column": 124,
                   "offset": 213
                 }
+              },
+              "data": {
+                "stem": "ourselv"
               }
             },
             {
@@ -2286,6 +2412,9 @@
                   "column": 127,
                   "offset": 216
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -2335,6 +2464,9 @@
                   "column": 131,
                   "offset": 220
                 }
+              },
+              "data": {
+                "stem": "ani"
               }
             },
             {
@@ -2384,6 +2516,9 @@
                   "column": 135,
                   "offset": 224
                 }
+              },
+              "data": {
+                "stem": "wai"
               }
             },
             {
@@ -2433,6 +2568,9 @@
                   "column": 138,
                   "offset": 227
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -2482,6 +2620,9 @@
                   "column": 142,
                   "offset": 231
                 }
+              },
+              "data": {
+                "stem": "see"
               }
             },
             {
@@ -2531,6 +2672,9 @@
                   "column": 146,
                   "offset": 235
                 }
+              },
+              "data": {
+                "stem": "fit"
               }
             },
             {
@@ -2596,6 +2740,9 @@
                   "column": 155,
                   "offset": 244
                 }
+              },
+              "data": {
+                "stem": "whether"
               }
             },
             {
@@ -2645,6 +2792,9 @@
                   "column": 160,
                   "offset": 249
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -2694,6 +2844,9 @@
                   "column": 163,
                   "offset": 252
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -2743,6 +2896,9 @@
                   "column": 166,
                   "offset": 255
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -2792,6 +2948,9 @@
                   "column": 168,
                   "offset": 257
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -2841,6 +3000,9 @@
                   "column": 176,
                   "offset": 265
                 }
+              },
+              "data": {
+                "stem": "regular"
               }
             },
             {
@@ -2890,6 +3052,9 @@
                   "column": 181,
                   "offset": 270
                 }
+              },
+              "data": {
+                "stem": "suit"
               }
             },
             {
@@ -2939,6 +3104,9 @@
                   "column": 185,
                   "offset": 274
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -2988,6 +3156,9 @@
                   "column": 189,
                   "offset": 278
                 }
+              },
+              "data": {
+                "stem": "tie"
               }
             },
             {
@@ -3053,6 +3224,9 @@
                   "column": 193,
                   "offset": 282
                 }
+              },
+              "data": {
+                "stem": "or"
               }
             },
             {
@@ -3102,6 +3276,9 @@
                   "column": 195,
                   "offset": 284
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -3151,6 +3328,9 @@
                   "column": 200,
                   "offset": 289
                 }
+              },
+              "data": {
+                "stem": "full"
               }
             },
             {
@@ -3200,6 +3380,9 @@
                   "column": 205,
                   "offset": 294
                 }
+              },
+              "data": {
+                "stem": "bodi"
               }
             },
             {
@@ -3249,6 +3432,9 @@
                   "column": 208,
                   "offset": 297
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -3298,6 +3484,9 @@
                   "column": 216,
                   "offset": 305
                 }
+              },
+              "data": {
+                "stem": "tattoo"
               }
             },
             {
@@ -3400,6 +3589,9 @@
                   "column": 5,
                   "offset": 312
                 }
+              },
+              "data": {
+                "stem": "most"
               }
             },
             {
@@ -3449,6 +3641,9 @@
                   "column": 8,
                   "offset": 315
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -3498,6 +3693,9 @@
                   "column": 11,
                   "offset": 318
                 }
+              },
+              "data": {
+                "stem": "us"
               }
             },
             {
@@ -3547,6 +3745,9 @@
                   "column": 15,
                   "offset": 322
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -3596,6 +3797,9 @@
                   "column": 19,
                   "offset": 326
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -3661,6 +3865,9 @@
                   "column": 23,
                   "offset": 330
                 }
+              },
+              "data": {
+                "stem": "as"
               }
             },
             {
@@ -3710,6 +3917,9 @@
                   "column": 27,
                   "offset": 334
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -3759,6 +3969,9 @@
                   "column": 35,
                   "offset": 342
                 }
+              },
+              "data": {
+                "stem": "parent"
               }
             },
             {
@@ -3808,6 +4021,9 @@
                   "column": 39,
                   "offset": 346
                 }
+              },
+              "data": {
+                "stem": "did"
               }
             },
             {
@@ -3873,6 +4089,9 @@
                   "column": 49,
                   "offset": 356
                 }
+              },
+              "data": {
+                "stem": "dress"
               }
             },
             {
@@ -3922,6 +4141,9 @@
                   "column": 53,
                   "offset": 360
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -3971,6 +4193,9 @@
                   "column": 57,
                   "offset": 364
                 }
+              },
+              "data": {
+                "stem": "ag"
               }
             },
             {
@@ -4056,6 +4281,9 @@
                   "column": 61,
                   "offset": 368
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -4105,6 +4333,9 @@
                   "column": 65,
                   "offset": 372
                 }
+              },
+              "data": {
+                "stem": "see"
               }
             },
             {
@@ -4154,6 +4385,9 @@
                   "column": 71,
                   "offset": 378
                 }
+              },
+              "data": {
+                "stem": "those"
               }
             },
             {
@@ -4203,6 +4437,9 @@
                   "column": 80,
                   "offset": 387
                 }
+              },
+              "data": {
+                "stem": "articl"
               }
             },
             {
@@ -4284,6 +4521,9 @@
                   "column": 86,
                   "offset": 393
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -4333,6 +4573,9 @@
                   "column": 91,
                   "offset": 398
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -4382,6 +4625,9 @@
                   "column": 96,
                   "offset": 403
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -4431,6 +4677,9 @@
                   "column": 100,
                   "offset": 407
                 }
+              },
+              "data": {
+                "stem": "sai"
               }
             },
             {
@@ -4512,6 +4761,9 @@
                   "column": 106,
                   "offset": 413
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -4561,6 +4813,9 @@
                   "column": 115,
                   "offset": 422
                 }
+              },
+              "data": {
+                "stem": "suppos"
               }
             },
             {
@@ -4610,6 +4865,9 @@
                   "column": 118,
                   "offset": 425
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -4659,6 +4917,9 @@
                   "column": 123,
                   "offset": 430
                 }
+              },
+              "data": {
+                "stem": "stop"
               }
             },
             {
@@ -4708,6 +4969,9 @@
                   "column": 131,
                   "offset": 438
                 }
+              },
+              "data": {
+                "stem": "wear"
               }
             },
             {
@@ -4757,6 +5021,9 @@
                   "column": 139,
                   "offset": 446
                 }
+              },
+              "data": {
+                "stem": "strappi"
               }
             },
             {
@@ -4806,6 +5073,9 @@
                   "column": 147,
                   "offset": 454
                 }
+              },
+              "data": {
+                "stem": "sandal"
               }
             },
             {
@@ -4855,6 +5125,9 @@
                   "column": 151,
                   "offset": 458
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -4936,6 +5209,9 @@
                   "column": 161,
                   "offset": 468
                 }
+              },
+              "data": {
+                "stem": "high-top"
               }
             },
             {
@@ -5001,6 +5277,9 @@
                   "column": 169,
                   "offset": 476
                 }
+              },
+              "data": {
+                "stem": "combat"
               }
             },
             {
@@ -5050,6 +5329,9 @@
                   "column": 175,
                   "offset": 482
                 }
+              },
+              "data": {
+                "stem": "boot"
               }
             },
             {
@@ -5099,6 +5381,9 @@
                   "column": 179,
                   "offset": 486
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -5148,6 +5433,9 @@
                   "column": 190,
                   "offset": 497
                 }
+              },
+              "data": {
+                "stem": "miniskirt"
               }
             },
             {
@@ -5213,6 +5501,9 @@
                   "column": 194,
                   "offset": 501
                 }
+              },
+              "data": {
+                "stem": "or"
               }
             },
             {
@@ -5294,6 +5585,9 @@
                   "column": 205,
                   "offset": 512
                 }
+              },
+              "data": {
+                "stem": "skin-tight"
               }
             },
             {
@@ -5343,6 +5637,9 @@
                   "column": 211,
                   "offset": 518
                 }
+              },
+              "data": {
+                "stem": "jean"
               }
             },
             {
@@ -5392,6 +5689,9 @@
                   "column": 216,
                   "offset": 523
                 }
+              },
+              "data": {
+                "stem": "with"
               }
             },
             {
@@ -5441,6 +5741,9 @@
                   "column": 222,
                   "offset": 529
                 }
+              },
+              "data": {
+                "stem": "hole"
               }
             },
             {
@@ -5522,6 +5825,9 @@
                   "column": 228,
                   "offset": 535
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -5571,6 +5877,9 @@
                   "column": 231,
                   "offset": 538
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -5620,6 +5929,9 @@
                   "column": 240,
                   "offset": 547
                 }
+              },
+              "data": {
+                "stem": "consid"
               }
             },
             {
@@ -5669,6 +5981,9 @@
                   "column": 245,
                   "offset": 552
                 }
+              },
+              "data": {
+                "stem": "them"
               }
             },
             {
@@ -5718,6 +6033,9 @@
                   "column": 249,
                   "offset": 556
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -5767,6 +6085,9 @@
                   "column": 251,
                   "offset": 558
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -5816,6 +6137,9 @@
                   "column": 258,
                   "offset": 565
                 }
+              },
+              "data": {
+                "stem": "second"
               }
             },
             {
@@ -5865,6 +6189,9 @@
                   "column": 264,
                   "offset": 571
                 }
+              },
+              "data": {
+                "stem": "until"
               }
             },
             {
@@ -5914,6 +6241,9 @@
                   "column": 267,
                   "offset": 574
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -5963,6 +6293,9 @@
                   "column": 271,
                   "offset": 578
                 }
+              },
+              "data": {
+                "stem": "sai"
               }
             },
             {
@@ -6028,6 +6361,9 @@
                   "column": 277,
                   "offset": 584
                 }
+              },
+              "data": {
+                "stem": "fuck"
               }
             },
             {
@@ -6077,6 +6413,9 @@
                   "column": 282,
                   "offset": 589
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -6210,6 +6549,9 @@
                   "column": 290,
                   "offset": 597
                 }
+              },
+              "data": {
+                "stem": "we’v"
               }
             },
             {
@@ -6259,6 +6601,9 @@
                   "column": 297,
                   "offset": 604
                 }
+              },
+              "data": {
+                "stem": "alwai"
               }
             },
             {
@@ -6308,6 +6653,9 @@
                   "column": 302,
                   "offset": 609
                 }
+              },
+              "data": {
+                "stem": "worn"
               }
             },
             {
@@ -6357,6 +6705,9 @@
                   "column": 311,
                   "offset": 618
                 }
+              },
+              "data": {
+                "stem": "whatev"
               }
             },
             {
@@ -6406,6 +6757,9 @@
                   "column": 314,
                   "offset": 621
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -6455,6 +6809,9 @@
                   "column": 321,
                   "offset": 628
                 }
+              },
+              "data": {
+                "stem": "want"
               }
             },
             {
@@ -6504,6 +6861,9 @@
                   "column": 325,
                   "offset": 632
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -6553,6 +6913,9 @@
                   "column": 328,
                   "offset": 635
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -6634,6 +6997,9 @@
                   "column": 334,
                   "offset": 641
                 }
+              },
+              "data": {
+                "stem": "don’t"
               }
             },
             {
@@ -6683,6 +7049,9 @@
                   "column": 347,
                   "offset": 654
                 }
+              },
+              "data": {
+                "stem": "particularli"
               }
             },
             {
@@ -6732,6 +7101,9 @@
                   "column": 352,
                   "offset": 659
                 }
+              },
+              "data": {
+                "stem": "give"
               }
             },
             {
@@ -6781,6 +7153,9 @@
                   "column": 354,
                   "offset": 661
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -6830,6 +7205,9 @@
                   "column": 359,
                   "offset": 666
                 }
+              },
+              "data": {
+                "stem": "crap"
               }
             },
             {
@@ -6879,6 +7257,9 @@
                   "column": 362,
                   "offset": 669
                 }
+              },
+              "data": {
+                "stem": "if"
               }
             },
             {
@@ -6928,6 +7309,9 @@
                   "column": 366,
                   "offset": 673
                 }
+              },
+              "data": {
+                "stem": "you"
               }
             },
             {
@@ -7009,6 +7393,9 @@
                   "column": 372,
                   "offset": 679
                 }
+              },
+              "data": {
+                "stem": "don’t"
               }
             },
             {
@@ -7058,6 +7445,9 @@
                   "column": 377,
                   "offset": 684
                 }
+              },
+              "data": {
+                "stem": "like"
               }
             },
             {
@@ -7107,6 +7497,9 @@
                   "column": 380,
                   "offset": 687
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -7192,6 +7585,9 @@
                   "column": 384,
                   "offset": 691
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -7241,6 +7637,9 @@
                   "column": 389,
                   "offset": 696
                 }
+              },
+              "data": {
+                "stem": "grew"
               }
             },
             {
@@ -7290,6 +7689,9 @@
                   "column": 392,
                   "offset": 699
                 }
+              },
+              "data": {
+                "stem": "up"
               }
             },
             {
@@ -7339,6 +7741,9 @@
                   "column": 395,
                   "offset": 702
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -7388,6 +7793,9 @@
                   "column": 399,
                   "offset": 706
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -7453,6 +7861,9 @@
                   "column": 404,
                   "offset": 711
                 }
+              },
+              "data": {
+                "stem": "80"
               }
             },
             {
@@ -7518,6 +7929,9 @@
                   "column": 409,
                   "offset": 716
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -7567,6 +7981,9 @@
                   "column": 413,
                   "offset": 720
                 }
+              },
+              "data": {
+                "stem": "ag"
               }
             },
             {
@@ -7616,6 +8033,9 @@
                   "column": 416,
                   "offset": 723
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -7665,6 +8085,9 @@
                   "column": 422,
                   "offset": 729
                 }
+              },
+              "data": {
+                "stem": "flash"
               }
             },
             {
@@ -7714,6 +8137,9 @@
                   "column": 426,
                   "offset": 733
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -7763,6 +8189,9 @@
                   "column": 432,
                   "offset": 739
                 }
+              },
+              "data": {
+                "stem": "color"
               }
             },
             {
@@ -7828,6 +8257,9 @@
                   "column": 438,
                   "offset": 745
                 }
+              },
+              "data": {
+                "stem": "punk"
               }
             },
             {
@@ -7893,6 +8325,9 @@
                   "column": 445,
                   "offset": 752
                 }
+              },
+              "data": {
+                "stem": "metal"
               }
             },
             {
@@ -7958,6 +8393,9 @@
                   "column": 450,
                   "offset": 757
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -8039,6 +8477,9 @@
                   "column": 458,
                   "offset": 765
                 }
+              },
+              "data": {
+                "stem": "hip-hop"
               }
             },
             {
@@ -8124,6 +8565,9 @@
                   "column": 462,
                   "offset": 769
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -8173,6 +8617,9 @@
                   "column": 470,
                   "offset": 777
                 }
+              },
+              "data": {
+                "stem": "learn"
               }
             },
             {
@@ -8222,6 +8669,9 @@
                   "column": 473,
                   "offset": 780
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -8271,6 +8721,9 @@
                   "column": 478,
                   "offset": 785
                 }
+              },
+              "data": {
+                "stem": "live"
               }
             },
             {
@@ -8320,6 +8773,9 @@
                   "column": 483,
                   "offset": 790
                 }
+              },
+              "data": {
+                "stem": "loud"
               }
             },
             {
@@ -8369,6 +8825,9 @@
                   "column": 487,
                   "offset": 794
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -8418,6 +8877,9 @@
                   "column": 490,
                   "offset": 797
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -8499,6 +8961,9 @@
                   "column": 497,
                   "offset": 804
                 }
+              },
+              "data": {
+                "stem": "aren’t"
               }
             },
             {
@@ -8548,6 +9013,9 @@
                   "column": 504,
                   "offset": 811
                 }
+              },
+              "data": {
+                "stem": "give"
               }
             },
             {
@@ -8597,6 +9065,9 @@
                   "column": 507,
                   "offset": 814
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -8646,6 +9117,9 @@
                   "column": 510,
                   "offset": 817
                 }
+              },
+              "data": {
+                "stem": "up"
               }
             },
             {
@@ -8731,6 +9205,9 @@
                   "column": 515,
                   "offset": 822
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -8780,6 +9257,9 @@
                   "column": 521,
                   "offset": 828
                 }
+              },
+              "data": {
+                "stem": "music"
               }
             },
             {
@@ -8829,6 +9309,9 @@
                   "column": 524,
                   "offset": 831
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -8878,6 +9361,9 @@
                   "column": 530,
                   "offset": 837
                 }
+              },
+              "data": {
+                "stem": "still"
               }
             },
             {
@@ -8927,6 +9413,9 @@
                   "column": 535,
                   "offset": 842
                 }
+              },
+              "data": {
+                "stem": "loud"
               }
             },
             {
@@ -8976,6 +9465,9 @@
                   "column": 539,
                   "offset": 846
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -9025,6 +9517,9 @@
                   "column": 542,
                   "offset": 849
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -9074,6 +9569,9 @@
                   "column": 546,
                   "offset": 853
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -9123,6 +9621,9 @@
                   "column": 550,
                   "offset": 857
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -9172,6 +9673,9 @@
                   "column": 558,
                   "offset": 865
                 }
+              },
+              "data": {
+                "stem": "cloth"
               }
             },
             {
@@ -9257,6 +9761,9 @@
                   "column": 562,
                   "offset": 869
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -9306,6 +9813,9 @@
                   "column": 566,
                   "offset": 873
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -9355,6 +9865,9 @@
                   "column": 570,
                   "offset": 877
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -9404,6 +9917,9 @@
                   "column": 579,
                   "offset": 886
                 }
+              },
+              "data": {
+                "stem": "opinion"
               }
             },
             {
@@ -9469,6 +9985,9 @@
                   "column": 586,
                   "offset": 893
                 }
+              },
+              "data": {
+                "stem": "which"
               }
             },
             {
@@ -9550,6 +10069,9 @@
                   "column": 592,
                   "offset": 899
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -9599,6 +10121,9 @@
                   "column": 596,
                   "offset": 903
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -9648,6 +10173,9 @@
                   "column": 603,
                   "offset": 910
                 }
+              },
+              "data": {
+                "stem": "afraid"
               }
             },
             {
@@ -9697,6 +10225,9 @@
                   "column": 606,
                   "offset": 913
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -9746,6 +10277,9 @@
                   "column": 612,
                   "offset": 919
                 }
+              },
+              "data": {
+                "stem": "share"
               }
             },
             {
@@ -9795,6 +10329,9 @@
                   "column": 617,
                   "offset": 924
                 }
+              },
+              "data": {
+                "stem": "with"
               }
             },
             {
@@ -9844,6 +10381,9 @@
                   "column": 621,
                   "offset": 928
                 }
+              },
+              "data": {
+                "stem": "you"
               }
             },
             {
@@ -9929,6 +10469,9 @@
                   "column": 625,
                   "offset": 932
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -9978,6 +10521,9 @@
                   "column": 631,
                   "offset": 938
                 }
+              },
+              "data": {
+                "stem": "might"
               }
             },
             {
@@ -10027,6 +10573,9 @@
                   "column": 634,
                   "offset": 941
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -10076,6 +10625,9 @@
                   "column": 642,
                   "offset": 949
                 }
+              },
+              "data": {
+                "stem": "lead"
               }
             },
             {
@@ -10125,6 +10677,9 @@
                   "column": 646,
                   "offset": 953
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -10174,6 +10729,9 @@
                   "column": 650,
                   "offset": 957
                 }
+              },
+              "data": {
+                "stem": "pta"
               }
             },
             {
@@ -10223,6 +10781,9 @@
                   "column": 653,
                   "offset": 960
                 }
+              },
+              "data": {
+                "stem": "or"
               }
             },
             {
@@ -10272,6 +10833,9 @@
                   "column": 661,
                   "offset": 968
                 }
+              },
+              "data": {
+                "stem": "plai"
               }
             },
             {
@@ -10321,6 +10885,9 @@
                   "column": 666,
                   "offset": 973
                 }
+              },
+              "data": {
+                "stem": "bass"
               }
             },
             {
@@ -10370,6 +10937,9 @@
                   "column": 669,
                   "offset": 976
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -10419,6 +10989,9 @@
                   "column": 674,
                   "offset": 981
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -10468,6 +11041,9 @@
                   "column": 679,
                   "offset": 986
                 }
+              },
+              "data": {
+                "stem": "cool"
               }
             },
             {
@@ -10517,6 +11093,9 @@
                   "column": 686,
                   "offset": 993
                 }
+              },
+              "data": {
+                "stem": "littl"
               }
             },
             {
@@ -10566,6 +11145,9 @@
                   "column": 691,
                   "offset": 998
                 }
+              },
+              "data": {
+                "stem": "band"
               }
             },
             {
@@ -10615,6 +11197,9 @@
                   "column": 694,
                   "offset": 1001
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -10664,6 +11249,9 @@
                   "column": 698,
                   "offset": 1005
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -10713,6 +11301,9 @@
                   "column": 703,
                   "offset": 1010
                 }
+              },
+              "data": {
+                "stem": "side"
               }
             },
             {
@@ -10778,6 +11369,9 @@
                   "column": 707,
                   "offset": 1014
                 }
+              },
+              "data": {
+                "stem": "or"
               }
             },
             {
@@ -10827,6 +11421,9 @@
                   "column": 713,
                   "offset": 1020
                 }
+              },
+              "data": {
+                "stem": "mayb"
               }
             },
             {
@@ -10908,6 +11505,9 @@
                   "column": 719,
                   "offset": 1026
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -10957,6 +11557,9 @@
                   "column": 724,
                   "offset": 1031
                 }
+              },
+              "data": {
+                "stem": "just"
               }
             },
             {
@@ -11006,6 +11609,9 @@
                   "column": 731,
                   "offset": 1038
                 }
+              },
+              "data": {
+                "stem": "take"
               }
             },
             {
@@ -11055,6 +11661,9 @@
                   "column": 735,
                   "offset": 1042
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -11104,6 +11713,9 @@
                   "column": 739,
                   "offset": 1046
                 }
+              },
+              "data": {
+                "stem": "kid"
               }
             },
             {
@@ -11153,6 +11765,9 @@
                   "column": 747,
                   "offset": 1054
                 }
+              },
+              "data": {
+                "stem": "fish"
               }
             },
             {
@@ -11218,6 +11833,9 @@
                   "column": 751,
                   "offset": 1058
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -11267,6 +11885,9 @@
                   "column": 756,
                   "offset": 1063
                 }
+              },
+              "data": {
+                "stem": "show"
               }
             },
             {
@@ -11316,6 +11937,9 @@
                   "column": 761,
                   "offset": 1068
                 }
+              },
+              "data": {
+                "stem": "them"
               }
             },
             {
@@ -11365,6 +11989,9 @@
                   "column": 766,
                   "offset": 1073
                 }
+              },
+              "data": {
+                "stem": "what"
               }
             },
             {
@@ -11446,6 +12073,9 @@
                   "column": 771,
                   "offset": 1078
                 }
+              },
+              "data": {
+                "stem": "it’"
               }
             },
             {
@@ -11495,6 +12125,9 @@
                   "column": 776,
                   "offset": 1083
                 }
+              },
+              "data": {
+                "stem": "like"
               }
             },
             {
@@ -11544,6 +12177,9 @@
                   "column": 779,
                   "offset": 1086
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -11593,6 +12229,9 @@
                   "column": 782,
                   "offset": 1089
                 }
+              },
+              "data": {
+                "stem": "do"
               }
             },
             {
@@ -11642,6 +12281,9 @@
                   "column": 792,
                   "offset": 1099
                 }
+              },
+              "data": {
+                "stem": "someth"
               }
             },
             {
@@ -11691,6 +12333,9 @@
                   "column": 800,
                   "offset": 1107
                 }
+              },
+              "data": {
+                "stem": "outsid"
               }
             },
             {
@@ -11793,6 +12438,9 @@
                   "column": 3,
                   "offset": 1112
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -11842,6 +12490,9 @@
                   "column": 7,
                   "offset": 1116
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -11891,6 +12542,9 @@
                   "column": 11,
                   "offset": 1120
                 }
+              },
+              "data": {
+                "stem": "now"
               }
             },
             {
@@ -11940,6 +12594,9 @@
                   "column": 14,
                   "offset": 1123
                 }
+              },
+              "data": {
+                "stem": "at"
               }
             },
             {
@@ -11989,6 +12646,9 @@
                   "column": 18,
                   "offset": 1127
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -12038,6 +12698,9 @@
                   "column": 22,
                   "offset": 1131
                 }
+              },
+              "data": {
+                "stem": "ag"
               }
             },
             {
@@ -12087,6 +12750,9 @@
                   "column": 25,
                   "offset": 1134
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -12136,6 +12802,9 @@
                   "column": 30,
                   "offset": 1139
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -12185,6 +12854,9 @@
                   "column": 35,
                   "offset": 1144
                 }
+              },
+              "data": {
+                "stem": "seen"
               }
             },
             {
@@ -12234,6 +12906,9 @@
                   "column": 40,
                   "offset": 1149
                 }
+              },
+              "data": {
+                "stem": "most"
               }
             },
             {
@@ -12283,6 +12958,9 @@
                   "column": 43,
                   "offset": 1152
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -12332,6 +13010,9 @@
                   "column": 48,
                   "offset": 1157
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -12381,6 +13062,9 @@
                   "column": 57,
                   "offset": 1166
                 }
+              },
+              "data": {
+                "stem": "bullshit"
               }
             },
             {
@@ -12430,6 +13114,9 @@
                   "column": 64,
                   "offset": 1173
                 }
+              },
+              "data": {
+                "stem": "befor"
               }
             },
             {
@@ -12495,6 +13182,9 @@
                   "column": 68,
                   "offset": 1177
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -12576,6 +13266,9 @@
                   "column": 75,
                   "offset": 1184
                 }
+              },
+              "data": {
+                "stem": "you’r"
               }
             },
             {
@@ -12625,6 +13318,9 @@
                   "column": 79,
                   "offset": 1188
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -12674,6 +13370,9 @@
                   "column": 85,
                   "offset": 1194
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -12723,6 +13422,9 @@
                   "column": 88,
                   "offset": 1197
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -12772,6 +13474,9 @@
                   "column": 93,
                   "offset": 1202
                 }
+              },
+              "data": {
+                "stem": "fool"
               }
             },
             {
@@ -12821,6 +13526,9 @@
                   "column": 96,
                   "offset": 1205
                 }
+              },
+              "data": {
+                "stem": "us"
               }
             },
             {
@@ -12870,6 +13578,9 @@
                   "column": 103,
                   "offset": 1212
                 }
+              },
+              "data": {
+                "stem": "easili"
               }
             },
             {
@@ -12972,6 +13683,9 @@
                   "column": 3,
                   "offset": 1217
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -13021,6 +13735,9 @@
                   "column": 9,
                   "offset": 1223
                 }
+              },
+              "data": {
+                "stem": "live"
               }
             },
             {
@@ -13070,6 +13787,9 @@
                   "column": 17,
                   "offset": 1231
                 }
+              },
+              "data": {
+                "stem": "through"
               }
             },
             {
@@ -13119,6 +13839,9 @@
                   "column": 21,
                   "offset": 1235
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -13168,6 +13891,9 @@
                   "column": 25,
                   "offset": 1239
                 }
+              },
+              "data": {
+                "stem": "era"
               }
             },
             {
@@ -13217,6 +13943,9 @@
                   "column": 28,
                   "offset": 1242
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -13266,6 +13995,9 @@
                   "column": 35,
                   "offset": 1249
                 }
+              },
+              "data": {
+                "stem": "reagan"
               }
             },
             {
@@ -13315,6 +14047,9 @@
                   "column": 39,
                   "offset": 1253
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -13364,6 +14099,9 @@
                   "column": 43,
                   "offset": 1257
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -13413,6 +14151,9 @@
                   "column": 48,
                   "offset": 1262
                 }
+              },
+              "data": {
+                "stem": "fear"
               }
             },
             {
@@ -13462,6 +14203,9 @@
                   "column": 51,
                   "offset": 1265
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -13511,6 +14255,9 @@
                   "column": 55,
                   "offset": 1269
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -13560,6 +14307,9 @@
                   "column": 60,
                   "offset": 1274
                 }
+              },
+              "data": {
+                "stem": "cold"
               }
             },
             {
@@ -13609,6 +14359,9 @@
                   "column": 64,
                   "offset": 1278
                 }
+              },
+              "data": {
+                "stem": "war"
               }
             },
             {
@@ -13694,6 +14447,9 @@
                   "column": 68,
                   "offset": 1282
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -13743,6 +14499,9 @@
                   "column": 72,
                   "offset": 1286
                 }
+              },
+              "data": {
+                "stem": "saw"
               }
             },
             {
@@ -13792,6 +14551,9 @@
                   "column": 76,
                   "offset": 1290
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -13841,6 +14603,9 @@
                   "column": 81,
                   "offset": 1295
                 }
+              },
+              "data": {
+                "stem": "wall"
               }
             },
             {
@@ -13890,6 +14655,9 @@
                   "column": 86,
                   "offset": 1300
                 }
+              },
+              "data": {
+                "stem": "come"
               }
             },
             {
@@ -13939,6 +14707,9 @@
                   "column": 91,
                   "offset": 1305
                 }
+              },
+              "data": {
+                "stem": "down"
               }
             },
             {
@@ -13988,6 +14759,9 @@
                   "column": 95,
                   "offset": 1309
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -14037,6 +14811,9 @@
                   "column": 98,
                   "offset": 1312
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -14086,6 +14863,9 @@
                   "column": 108,
                   "offset": 1322
                 }
+              },
+              "data": {
+                "stem": "support"
               }
             },
             {
@@ -14135,6 +14915,9 @@
                   "column": 112,
                   "offset": 1326
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -14184,6 +14967,9 @@
                   "column": 117,
                   "offset": 1331
                 }
+              },
+              "data": {
+                "stem": "lgbt"
               }
             },
             {
@@ -14233,6 +15019,9 @@
                   "column": 125,
                   "offset": 1339
                 }
+              },
+              "data": {
+                "stem": "friend"
               }
             },
             {
@@ -14282,6 +15071,9 @@
                   "column": 131,
                   "offset": 1345
                 }
+              },
+              "data": {
+                "stem": "until"
               }
             },
             {
@@ -14331,6 +15123,9 @@
                   "column": 142,
                   "offset": 1356
                 }
+              },
+              "data": {
+                "stem": "eventu"
               }
             },
             {
@@ -14396,6 +15191,9 @@
                   "column": 146,
                   "offset": 1360
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -14445,6 +15243,9 @@
                   "column": 153,
                   "offset": 1367
                 }
+              },
+              "data": {
+                "stem": "help"
               }
             },
             {
@@ -14494,6 +15295,9 @@
                   "column": 156,
                   "offset": 1370
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -14543,6 +15347,9 @@
                   "column": 161,
                   "offset": 1375
                 }
+              },
+              "data": {
+                "stem": "vote"
               }
             },
             {
@@ -14592,6 +15399,9 @@
                   "column": 165,
                   "offset": 1379
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -14641,6 +15451,9 @@
                   "column": 169,
                   "offset": 1383
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -14690,6 +15503,9 @@
                   "column": 177,
                   "offset": 1391
                 }
+              },
+              "data": {
+                "stem": "passag"
               }
             },
             {
@@ -14739,6 +15555,9 @@
                   "column": 180,
                   "offset": 1394
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -14788,6 +15607,9 @@
                   "column": 189,
                   "offset": 1403
                 }
+              },
+              "data": {
+                "stem": "marriag"
               }
             },
             {
@@ -14837,6 +15659,9 @@
                   "column": 198,
                   "offset": 1412
                 }
+              },
+              "data": {
+                "stem": "equal"
               }
             },
             {
@@ -14922,6 +15747,9 @@
                   "column": 202,
                   "offset": 1416
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -14971,6 +15799,9 @@
                   "column": 207,
                   "offset": 1421
                 }
+              },
+              "data": {
+                "stem": "came"
               }
             },
             {
@@ -15020,6 +15851,9 @@
                   "column": 210,
                   "offset": 1424
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -15069,6 +15903,9 @@
                   "column": 214,
                   "offset": 1428
                 }
+              },
+              "data": {
+                "stem": "ag"
               }
             },
             {
@@ -15118,6 +15955,9 @@
                   "column": 217,
                   "offset": 1431
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -15167,6 +16007,9 @@
                   "column": 221,
                   "offset": 1435
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -15216,6 +16059,9 @@
                   "column": 225,
                   "offset": 1439
                 }
+              },
+              "data": {
+                "stem": "era"
               }
             },
             {
@@ -15265,6 +16111,9 @@
                   "column": 228,
                   "offset": 1442
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -15314,6 +16163,9 @@
                   "column": 238,
                   "offset": 1452
                 }
+              },
+              "data": {
+                "stem": "androgyni"
               }
             },
             {
@@ -15379,6 +16231,9 @@
                   "column": 243,
                   "offset": 1457
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -15428,6 +16283,9 @@
                   "column": 253,
                   "offset": 1467
                 }
+              },
+              "data": {
+                "stem": "precursor"
               }
             },
             {
@@ -15477,6 +16335,9 @@
                   "column": 256,
                   "offset": 1470
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -15558,6 +16419,9 @@
                   "column": 271,
                   "offset": 1485
                 }
+              },
+              "data": {
+                "stem": "gender-neutr"
               }
             },
             {
@@ -15639,6 +16503,9 @@
                   "column": 277,
                   "offset": 1491
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -15688,6 +16555,9 @@
                   "column": 282,
                   "offset": 1496
                 }
+              },
+              "data": {
+                "stem": "aid"
               }
             },
             {
@@ -15753,6 +16623,9 @@
                   "column": 288,
                   "offset": 1502
                 }
+              },
+              "data": {
+                "stem": "back"
               }
             },
             {
@@ -15802,6 +16675,9 @@
                   "column": 293,
                   "offset": 1507
                 }
+              },
+              "data": {
+                "stem": "when"
               }
             },
             {
@@ -15851,6 +16727,9 @@
                   "column": 297,
                   "offset": 1511
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -15900,6 +16779,9 @@
                   "column": 307,
                   "offset": 1521
                 }
+              },
+              "data": {
+                "stem": "presid"
               }
             },
             {
@@ -15949,6 +16831,9 @@
                   "column": 310,
                   "offset": 1524
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -15998,6 +16883,9 @@
                   "column": 314,
                   "offset": 1528
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -16047,6 +16935,9 @@
                   "column": 321,
                   "offset": 1535
                 }
+              },
+              "data": {
+                "stem": "unit"
               }
             },
             {
@@ -16096,6 +16987,9 @@
                   "column": 328,
                   "offset": 1542
                 }
+              },
+              "data": {
+                "stem": "state"
               }
             },
             {
@@ -16145,6 +17039,9 @@
                   "column": 339,
                   "offset": 1553
                 }
+              },
+              "data": {
+                "stem": "understood"
               }
             },
             {
@@ -16194,6 +17091,9 @@
                   "column": 346,
                   "offset": 1560
                 }
+              },
+              "data": {
+                "stem": "russia"
               }
             },
             {
@@ -16243,6 +17143,9 @@
                   "column": 350,
                   "offset": 1564
                 }
+              },
+              "data": {
+                "stem": "wa"
               }
             },
             {
@@ -16292,6 +17195,9 @@
                   "column": 354,
                   "offset": 1568
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -16357,6 +17263,9 @@
                   "column": 359,
                   "offset": 1573
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -16406,6 +17315,9 @@
                   "column": 365,
                   "offset": 1579
                 }
+              },
+              "data": {
+                "stem": "could"
               }
             },
             {
@@ -16455,6 +17367,9 @@
                   "column": 372,
                   "offset": 1586
                 }
+              },
+              "data": {
+                "stem": "like"
               }
             },
             {
@@ -16504,6 +17419,9 @@
                   "column": 378,
                   "offset": 1592
                 }
+              },
+              "data": {
+                "stem": "never"
               }
             },
             {
@@ -16553,6 +17471,9 @@
                   "column": 381,
                   "offset": 1595
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -16618,6 +17539,9 @@
                   "column": 385,
                   "offset": 1599
                 }
+              },
+              "data": {
+                "stem": "an"
               }
             },
             {
@@ -16667,6 +17591,9 @@
                   "column": 390,
                   "offset": 1604
                 }
+              },
+              "data": {
+                "stem": "alli"
               }
             },
             {
@@ -16769,6 +17696,9 @@
                   "column": 3,
                   "offset": 1609
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -16818,6 +17748,9 @@
                   "column": 7,
                   "offset": 1613
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -16867,6 +17800,9 @@
                   "column": 11,
                   "offset": 1617
                 }
+              },
+              "data": {
+                "stem": "now"
               }
             },
             {
@@ -16916,6 +17852,9 @@
                   "column": 14,
                   "offset": 1620
                 }
+              },
+              "data": {
+                "stem": "at"
               }
             },
             {
@@ -16965,6 +17904,9 @@
                   "column": 18,
                   "offset": 1624
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -17014,6 +17956,9 @@
                   "column": 22,
                   "offset": 1628
                 }
+              },
+              "data": {
+                "stem": "ag"
               }
             },
             {
@@ -17063,6 +18008,9 @@
                   "column": 25,
                   "offset": 1631
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -17112,6 +18060,9 @@
                   "column": 30,
                   "offset": 1636
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -17161,6 +18112,9 @@
                   "column": 35,
                   "offset": 1641
                 }
+              },
+              "data": {
+                "stem": "seen"
               }
             },
             {
@@ -17210,6 +18164,9 @@
                   "column": 40,
                   "offset": 1646
                 }
+              },
+              "data": {
+                "stem": "most"
               }
             },
             {
@@ -17259,6 +18216,9 @@
                   "column": 43,
                   "offset": 1649
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -17308,6 +18268,9 @@
                   "column": 48,
                   "offset": 1654
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -17357,6 +18320,9 @@
                   "column": 57,
                   "offset": 1663
                 }
+              },
+              "data": {
+                "stem": "bullshit"
               }
             },
             {
@@ -17406,6 +18372,9 @@
                   "column": 64,
                   "offset": 1670
                 }
+              },
+              "data": {
+                "stem": "befor"
               }
             },
             {
@@ -17471,6 +18440,9 @@
                   "column": 68,
                   "offset": 1674
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -17552,6 +18524,9 @@
                   "column": 75,
                   "offset": 1681
                 }
+              },
+              "data": {
+                "stem": "you’r"
               }
             },
             {
@@ -17601,6 +18576,9 @@
                   "column": 79,
                   "offset": 1685
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -17650,6 +18628,9 @@
                   "column": 85,
                   "offset": 1691
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -17699,6 +18680,9 @@
                   "column": 88,
                   "offset": 1694
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -17748,6 +18732,9 @@
                   "column": 93,
                   "offset": 1699
                 }
+              },
+              "data": {
+                "stem": "fool"
               }
             },
             {
@@ -17797,6 +18784,9 @@
                   "column": 96,
                   "offset": 1702
                 }
+              },
+              "data": {
+                "stem": "us"
               }
             },
             {
@@ -17846,6 +18836,9 @@
                   "column": 103,
                   "offset": 1709
                 }
+              },
+              "data": {
+                "stem": "easili"
               }
             },
             {
@@ -17931,6 +18924,9 @@
                   "column": 108,
                   "offset": 1714
                 }
+              },
+              "data": {
+                "stem": "gen"
               }
             },
             {
@@ -17980,6 +18976,9 @@
                   "column": 110,
                   "offset": 1716
                 }
+              },
+              "data": {
+                "stem": "x"
               }
             },
             {
@@ -18029,6 +19028,9 @@
                   "column": 114,
                   "offset": 1720
                 }
+              },
+              "data": {
+                "stem": "mai"
               }
             },
             {
@@ -18078,6 +19080,9 @@
                   "column": 117,
                   "offset": 1723
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -18127,6 +19132,9 @@
                   "column": 119,
                   "offset": 1725
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -18176,6 +19184,9 @@
                   "column": 125,
                   "offset": 1731
                 }
+              },
+              "data": {
+                "stem": "small"
               }
             },
             {
@@ -18225,6 +19236,9 @@
                   "column": 136,
                   "offset": 1742
                 }
+              },
+              "data": {
+                "stem": "gener"
               }
             },
             {
@@ -18306,6 +19320,9 @@
                   "column": 143,
                   "offset": 1749
                 }
+              },
+              "data": {
+                "stem": "that’"
               }
             },
             {
@@ -18355,6 +19372,9 @@
                   "column": 153,
                   "offset": 1759
                 }
+              },
+              "data": {
+                "stem": "stretch"
               }
             },
             {
@@ -18404,6 +19424,9 @@
                   "column": 157,
                   "offset": 1763
                 }
+              },
+              "data": {
+                "stem": "too"
               }
             },
             {
@@ -18453,6 +19476,9 @@
                   "column": 162,
                   "offset": 1768
                 }
+              },
+              "data": {
+                "stem": "thin"
               }
             },
             {
@@ -18502,6 +19528,9 @@
                   "column": 168,
                   "offset": 1774
                 }
+              },
+              "data": {
+                "stem": "right"
               }
             },
             {
@@ -18551,6 +19580,9 @@
                   "column": 172,
                   "offset": 1778
                 }
+              },
+              "data": {
+                "stem": "now"
               }
             },
             {
@@ -18600,6 +19632,9 @@
                   "column": 175,
                   "offset": 1781
                 }
+              },
+              "data": {
+                "stem": "as"
               }
             },
             {
@@ -18649,6 +19684,9 @@
                   "column": 178,
                   "offset": 1784
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -18698,6 +19736,9 @@
                   "column": 183,
                   "offset": 1789
                 }
+              },
+              "data": {
+                "stem": "look"
               }
             },
             {
@@ -18747,6 +19788,9 @@
                   "column": 189,
                   "offset": 1795
                 }
+              },
+              "data": {
+                "stem": "after"
               }
             },
             {
@@ -18796,6 +19840,9 @@
                   "column": 193,
                   "offset": 1799
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -18845,6 +19892,9 @@
                   "column": 198,
                   "offset": 1804
                 }
+              },
+              "data": {
+                "stem": "kid"
               }
             },
             {
@@ -18894,6 +19944,9 @@
                   "column": 202,
                   "offset": 1808
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -18943,6 +19996,9 @@
                   "column": 206,
                   "offset": 1812
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -18992,6 +20048,9 @@
                   "column": 214,
                   "offset": 1820
                 }
+              },
+              "data": {
+                "stem": "parent"
               }
             },
             {
@@ -19057,6 +20116,9 @@
                   "column": 219,
                   "offset": 1825
                 }
+              },
+              "data": {
+                "stem": "but"
               }
             },
             {
@@ -19106,6 +20168,9 @@
                   "column": 224,
                   "offset": 1830
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -19155,6 +20220,9 @@
                   "column": 229,
                   "offset": 1835
                 }
+              },
+              "data": {
+                "stem": "just"
               }
             },
             {
@@ -19204,6 +20272,9 @@
                   "column": 235,
                   "offset": 1841
                 }
+              },
+              "data": {
+                "stem": "make"
               }
             },
             {
@@ -19253,6 +20324,9 @@
                   "column": 238,
                   "offset": 1844
                 }
+              },
+              "data": {
+                "stem": "us"
               }
             },
             {
@@ -19302,6 +20376,9 @@
                   "column": 242,
                   "offset": 1848
                 }
+              },
+              "data": {
+                "stem": "all"
               }
             },
             {
@@ -19351,6 +20428,9 @@
                   "column": 246,
                   "offset": 1852
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -19400,6 +20480,9 @@
                   "column": 251,
                   "offset": 1857
                 }
+              },
+              "data": {
+                "stem": "more"
               }
             },
             {
@@ -19449,6 +20532,9 @@
                   "column": 256,
                   "offset": 1862
                 }
+              },
+              "data": {
+                "stem": "wari"
               }
             },
             {
@@ -19498,6 +20584,9 @@
                   "column": 260,
                   "offset": 1866
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -19547,6 +20636,9 @@
                   "column": 270,
                   "offset": 1876
                 }
+              },
+              "data": {
+                "stem": "skeptic"
               }
             },
             {
@@ -19664,6 +20756,9 @@
                   "column": 277,
                   "offset": 1883
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -19713,6 +20808,9 @@
                   "column": 281,
                   "offset": 1887
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -19762,6 +20860,9 @@
                   "column": 286,
                   "offset": 1892
                 }
+              },
+              "data": {
+                "stem": "sure"
               }
             },
             {
@@ -19811,6 +20912,9 @@
                   "column": 289,
                   "offset": 1895
                 }
+              },
+              "data": {
+                "stem": "if"
               }
             },
             {
@@ -19860,6 +20964,9 @@
                   "column": 293,
                   "offset": 1899
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -19909,6 +21016,9 @@
                   "column": 301,
                   "offset": 1907
                 }
+              },
+              "data": {
+                "stem": "countri"
               }
             },
             {
@@ -19958,6 +21068,9 @@
                   "column": 304,
                   "offset": 1910
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -20007,6 +21120,9 @@
                   "column": 310,
                   "offset": 1916
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -20056,6 +21172,9 @@
                   "column": 313,
                   "offset": 1919
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -20105,6 +21224,9 @@
                   "column": 321,
                   "offset": 1927
                 }
+              },
+              "data": {
+                "stem": "surviv"
               }
             },
             {
@@ -20154,6 +21276,9 @@
                   "column": 328,
                   "offset": 1934
                 }
+              },
+              "data": {
+                "stem": "donald"
               }
             },
             {
@@ -20203,6 +21328,9 @@
                   "column": 334,
                   "offset": 1940
                 }
+              },
+              "data": {
+                "stem": "trump"
               }
             },
             {
@@ -20268,6 +21396,9 @@
                   "column": 339,
                   "offset": 1945
                 }
+              },
+              "data": {
+                "stem": "but"
               }
             },
             {
@@ -20317,6 +21448,9 @@
                   "column": 342,
                   "offset": 1948
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -20366,6 +21500,9 @@
                   "column": 346,
                   "offset": 1952
                 }
+              },
+              "data": {
+                "stem": "saw"
               }
             },
             {
@@ -20415,6 +21552,9 @@
                   "column": 350,
                   "offset": 1956
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -20464,6 +21604,9 @@
                   "column": 358,
                   "offset": 1964
                 }
+              },
+              "data": {
+                "stem": "countri"
               }
             },
             {
@@ -20513,6 +21656,9 @@
                   "column": 366,
                   "offset": 1972
                 }
+              },
+              "data": {
+                "stem": "surviv"
               }
             },
             {
@@ -20562,6 +21708,9 @@
                   "column": 373,
                   "offset": 1979
                 }
+              },
+              "data": {
+                "stem": "ronald"
               }
             },
             {
@@ -20611,6 +21760,9 @@
                   "column": 380,
                   "offset": 1986
                 }
+              },
+              "data": {
+                "stem": "reagan"
               }
             },
             {
@@ -20660,6 +21812,9 @@
                   "column": 384,
                   "offset": 1990
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -20709,6 +21864,9 @@
                   "column": 389,
                   "offset": 1995
                 }
+              },
+              "data": {
+                "stem": "bill"
               }
             },
             {
@@ -20758,6 +21916,9 @@
                   "column": 397,
                   "offset": 2003
                 }
+              },
+              "data": {
+                "stem": "clinton"
               }
             },
             {
@@ -20807,6 +21968,9 @@
                   "column": 401,
                   "offset": 2007
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -20856,6 +22020,9 @@
                   "column": 408,
                   "offset": 2014
                 }
+              },
+              "data": {
+                "stem": "georg"
               }
             },
             {
@@ -20921,6 +22088,9 @@
                   "column": 411,
                   "offset": 2017
                 }
+              },
+              "data": {
+                "stem": "w."
               }
             },
             {
@@ -20970,6 +22140,9 @@
                   "column": 416,
                   "offset": 2022
                 }
+              },
+              "data": {
+                "stem": "bush"
               }
             },
             {
@@ -21035,6 +22208,9 @@
                   "column": 420,
                   "offset": 2026
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -21084,6 +22260,9 @@
                   "column": 423,
                   "offset": 2029
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -21133,6 +22312,9 @@
                   "column": 431,
                   "offset": 2037
                 }
+              },
+              "data": {
+                "stem": "suspect"
               }
             },
             {
@@ -21182,6 +22364,9 @@
                   "column": 437,
                   "offset": 2043
                 }
+              },
+              "data": {
+                "stem": "there"
               }
             },
             {
@@ -21231,6 +22416,9 @@
                   "column": 442,
                   "offset": 2048
                 }
+              },
+              "data": {
+                "stem": "will"
               }
             },
             {
@@ -21280,6 +22468,9 @@
                   "column": 445,
                   "offset": 2051
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -21329,6 +22520,9 @@
                   "column": 455,
                   "offset": 2061
                 }
+              },
+              "data": {
+                "stem": "someth"
               }
             },
             {
@@ -21378,6 +22572,9 @@
                   "column": 465,
                   "offset": 2071
                 }
+              },
+              "data": {
+                "stem": "afterward"
               }
             },
             {
@@ -21443,6 +22640,9 @@
                   "column": 474,
                   "offset": 2080
                 }
+              },
+              "data": {
+                "stem": "whether"
               }
             },
             {
@@ -21492,6 +22692,9 @@
                   "column": 478,
                   "offset": 2084
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -21541,6 +22744,9 @@
                   "column": 483,
                   "offset": 2089
                 }
+              },
+              "data": {
+                "stem": "dust"
               }
             },
             {
@@ -21590,6 +22796,9 @@
                   "column": 491,
                   "offset": 2097
                 }
+              },
+              "data": {
+                "stem": "settl"
               }
             },
             {
@@ -21639,6 +22848,9 @@
                   "column": 497,
                   "offset": 2103
                 }
+              },
+              "data": {
+                "stem": "after"
               }
             },
             {
@@ -21688,6 +22900,9 @@
                   "column": 501,
                   "offset": 2107
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -21737,6 +22952,9 @@
                   "column": 504,
                   "offset": 2110
                 }
+              },
+              "data": {
+                "stem": "or"
               }
             },
             {
@@ -21802,6 +23020,9 @@
                   "column": 509,
                   "offset": 2115
                 }
+              },
+              "data": {
+                "stem": "god"
               }
             },
             {
@@ -21851,6 +23072,9 @@
                   "column": 516,
                   "offset": 2122
                 }
+              },
+              "data": {
+                "stem": "forbid"
               }
             },
             {
@@ -21916,6 +23140,9 @@
                   "column": 521,
                   "offset": 2127
                 }
+              },
+              "data": {
+                "stem": "two"
               }
             },
             {
@@ -21965,6 +23192,9 @@
                   "column": 527,
                   "offset": 2133
                 }
+              },
+              "data": {
+                "stem": "term"
               }
             },
             {
@@ -22067,6 +23297,9 @@
                   "column": 4,
                   "offset": 2139
                 }
+              },
+              "data": {
+                "stem": "gen"
               }
             },
             {
@@ -22116,6 +23349,9 @@
                   "column": 6,
                   "offset": 2141
                 }
+              },
+              "data": {
+                "stem": "x"
               }
             },
             {
@@ -22165,6 +23401,9 @@
                   "column": 9,
                   "offset": 2144
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -22214,6 +23453,9 @@
                   "column": 16,
                   "offset": 2151
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -22263,6 +23505,9 @@
                   "column": 18,
                   "offset": 2153
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -22328,6 +23573,9 @@
                   "column": 24,
                   "offset": 2159
                 }
+              },
+              "data": {
+                "stem": "veri"
               }
             },
             {
@@ -22377,6 +23625,9 @@
                   "column": 28,
                   "offset": 2163
                 }
+              },
+              "data": {
+                "stem": "gen"
               }
             },
             {
@@ -22426,6 +23677,9 @@
                   "column": 30,
                   "offset": 2165
                 }
+              },
+              "data": {
+                "stem": "x"
               }
             },
             {
@@ -22491,6 +23745,9 @@
                   "column": 38,
                   "offset": 2173
                 }
+              },
+              "data": {
+                "stem": "moment"
               }
             }
           ],
@@ -22577,6 +23834,9 @@
                   "column": 4,
                   "offset": 2178
                 }
+              },
+              "data": {
+                "stem": "why"
               }
             },
             {
@@ -22626,6 +23886,9 @@
                   "column": 8,
                   "offset": 2182
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -22707,6 +23970,9 @@
                   "column": 16,
                   "offset": 2190
                 }
+              },
+              "data": {
+                "stem": "opt-out"
               }
             },
             {
@@ -22756,6 +24022,9 @@
                   "column": 27,
                   "offset": 2201
                 }
+              },
+              "data": {
+                "stem": "gener"
               }
             },
             {
@@ -22805,6 +24074,9 @@
                   "column": 34,
                   "offset": 2208
                 }
+              },
+              "data": {
+                "stem": "should"
               }
             },
             {
@@ -22854,6 +24126,9 @@
                   "column": 41,
                   "offset": 2215
                 }
+              },
+              "data": {
+                "stem": "reject"
               }
             },
             {
@@ -22903,6 +24178,9 @@
                   "column": 45,
                   "offset": 2219
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -22952,6 +24230,9 @@
                   "column": 55,
                   "offset": 2229
                 }
+              },
+              "data": {
+                "stem": "nostalgia"
               }
             },
             {
@@ -23001,6 +24282,9 @@
                   "column": 60,
                   "offset": 2234
                 }
+              },
+              "data": {
+                "stem": "bath"
               }
             }
           ],
@@ -23087,6 +24371,9 @@
                   "column": 3,
                   "offset": 2238
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -23136,6 +24423,9 @@
                   "column": 8,
                   "offset": 2243
                 }
+              },
+              "data": {
+                "stem": "like"
               }
             },
             {
@@ -23185,6 +24475,9 @@
                   "column": 11,
                   "offset": 2246
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -23234,6 +24527,9 @@
                   "column": 18,
                   "offset": 2253
                 }
+              },
+              "data": {
+                "stem": "listen"
               }
             },
             {
@@ -23283,6 +24579,9 @@
                   "column": 21,
                   "offset": 2256
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -23332,6 +24631,9 @@
                   "column": 27,
                   "offset": 2262
                 }
+              },
+              "data": {
+                "stem": "lizzo"
               }
             },
             {
@@ -23381,6 +24683,9 @@
                   "column": 31,
                   "offset": 2266
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -23430,6 +24735,9 @@
                   "column": 37,
                   "offset": 2272
                 }
+              },
+              "data": {
+                "stem": "duran"
               }
             },
             {
@@ -23479,6 +24787,9 @@
                   "column": 43,
                   "offset": 2278
                 }
+              },
+              "data": {
+                "stem": "duran"
               }
             },
             {
@@ -23528,6 +24839,9 @@
                   "column": 47,
                   "offset": 2282
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -23577,6 +24891,9 @@
                   "column": 53,
                   "offset": 2288
                 }
+              },
+              "data": {
+                "stem": "tupac"
               }
             },
             {
@@ -23626,6 +24943,9 @@
                   "column": 57,
                   "offset": 2292
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -23675,6 +24995,9 @@
                   "column": 61,
                   "offset": 2296
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -23724,6 +25047,9 @@
                   "column": 66,
                   "offset": 2301
                 }
+              },
+              "data": {
+                "stem": "cure"
               }
             },
             {
@@ -23773,6 +25099,9 @@
                   "column": 70,
                   "offset": 2305
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -23822,6 +25151,9 @@
                   "column": 78,
                   "offset": 2313
                 }
+              },
+              "data": {
+                "stem": "madonna"
               }
             },
             {
@@ -23871,6 +25203,9 @@
                   "column": 82,
                   "offset": 2317
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -23920,6 +25255,9 @@
                   "column": 91,
                   "offset": 2326
                 }
+              },
+              "data": {
+                "stem": "childish"
               }
             },
             {
@@ -23969,6 +25307,9 @@
                   "column": 99,
                   "offset": 2334
                 }
+              },
+              "data": {
+                "stem": "gambino"
               }
             },
             {
@@ -24054,6 +25395,9 @@
                   "column": 104,
                   "offset": 2339
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -24103,6 +25447,9 @@
                   "column": 109,
                   "offset": 2344
                 }
+              },
+              "data": {
+                "stem": "also"
               }
             },
             {
@@ -24152,6 +25499,9 @@
                   "column": 113,
                   "offset": 2348
                 }
+              },
+              "data": {
+                "stem": "old"
               }
             },
             {
@@ -24201,6 +25551,9 @@
                   "column": 121,
                   "offset": 2356
                 }
+              },
+              "data": {
+                "stem": "countri"
               }
             },
             {
@@ -24266,6 +25619,9 @@
                   "column": 126,
                   "offset": 2361
                 }
+              },
+              "data": {
+                "stem": "old"
               }
             },
             {
@@ -24315,6 +25671,9 @@
                   "column": 131,
                   "offset": 2366
                 }
+              },
+              "data": {
+                "stem": "rock"
               }
             },
             {
@@ -24364,6 +25723,9 @@
                   "column": 135,
                   "offset": 2370
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -24413,6 +25775,9 @@
                   "column": 140,
                   "offset": 2375
                 }
+              },
+              "data": {
+                "stem": "roll"
               }
             },
             {
@@ -24478,6 +25843,9 @@
                   "column": 145,
                   "offset": 2380
                 }
+              },
+              "data": {
+                "stem": "old"
               }
             },
             {
@@ -24527,6 +25895,9 @@
                   "column": 150,
                   "offset": 2385
                 }
+              },
+              "data": {
+                "stem": "jazz"
               }
             },
             {
@@ -24592,6 +25963,9 @@
                   "column": 155,
                   "offset": 2390
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -24641,6 +26015,9 @@
                   "column": 168,
                   "offset": 2403
                 }
+              },
+              "data": {
+                "stem": "occasion"
               }
             },
             {
@@ -24706,6 +26083,9 @@
                   "column": 174,
                   "offset": 2409
                 }
+              },
+              "data": {
+                "stem": "some"
               }
             },
             {
@@ -24755,6 +26135,9 @@
                   "column": 184,
                   "offset": 2419
                 }
+              },
+              "data": {
+                "stem": "classic"
               }
             },
             {
@@ -24840,6 +26223,9 @@
                   "column": 188,
                   "offset": 2423
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -24889,6 +26275,9 @@
                   "column": 193,
                   "offset": 2428
                 }
+              },
+              "data": {
+                "stem": "grew"
               }
             },
             {
@@ -24938,6 +26327,9 @@
                   "column": 196,
                   "offset": 2431
                 }
+              },
+              "data": {
+                "stem": "up"
               }
             },
             {
@@ -24987,6 +26379,9 @@
                   "column": 199,
                   "offset": 2434
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -25036,6 +26431,9 @@
                   "column": 205,
                   "offset": 2440
                 }
+              },
+              "data": {
+                "stem": "taco"
               }
             },
             {
@@ -25085,6 +26483,9 @@
                   "column": 209,
                   "offset": 2444
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -25134,6 +26535,9 @@
                   "column": 215,
                   "offset": 2450
                 }
+              },
+              "data": {
+                "stem": "pizza"
               }
             },
             {
@@ -25183,6 +26587,9 @@
                   "column": 219,
                   "offset": 2454
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -25232,6 +26639,9 @@
                   "column": 227,
                   "offset": 2462
                 }
+              },
+              "data": {
+                "stem": "burger"
               }
             },
             {
@@ -25317,6 +26727,9 @@
                   "column": 231,
                   "offset": 2466
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -25366,6 +26779,9 @@
                   "column": 236,
                   "offset": 2471
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -25415,6 +26831,9 @@
                   "column": 241,
                   "offset": 2476
                 }
+              },
+              "data": {
+                "stem": "come"
               }
             },
             {
@@ -25464,6 +26883,9 @@
                   "column": 244,
                   "offset": 2479
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -25513,6 +26935,9 @@
                   "column": 249,
                   "offset": 2484
                 }
+              },
+              "data": {
+                "stem": "love"
               }
             },
             {
@@ -25562,6 +26987,9 @@
                   "column": 255,
                   "offset": 2490
                 }
+              },
+              "data": {
+                "stem": "sushi"
               }
             },
             {
@@ -25611,6 +27039,9 @@
                   "column": 259,
                   "offset": 2494
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -25660,6 +27091,9 @@
                   "column": 268,
                   "offset": 2503
                 }
+              },
+              "data": {
+                "stem": "perogi"
               }
             },
             {
@@ -25709,6 +27143,9 @@
                   "column": 272,
                   "offset": 2507
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -25758,6 +27195,9 @@
                   "column": 280,
                   "offset": 2515
                 }
+              },
+              "data": {
+                "stem": "bulgogi"
               }
             },
             {
@@ -25843,6 +27283,9 @@
                   "column": 285,
                   "offset": 2520
                 }
+              },
+              "data": {
+                "stem": "but"
               }
             },
             {
@@ -25892,6 +27335,9 @@
                   "column": 289,
                   "offset": 2524
                 }
+              },
+              "data": {
+                "stem": "now"
               }
             },
             {
@@ -25957,6 +27403,9 @@
                   "column": 294,
                   "offset": 2529
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -26006,6 +27455,9 @@
                   "column": 297,
                   "offset": 2532
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -26055,6 +27507,9 @@
                   "column": 301,
                   "offset": 2536
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -26104,6 +27559,9 @@
                   "column": 306,
                   "offset": 2541
                 }
+              },
+              "data": {
+                "stem": "kid"
               }
             },
             {
@@ -26153,6 +27611,9 @@
                   "column": 309,
                   "offset": 2544
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -26202,6 +27663,9 @@
                   "column": 316,
                   "offset": 2551
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -26251,6 +27715,9 @@
                   "column": 323,
                   "offset": 2558
                 }
+              },
+              "data": {
+                "stem": "gender"
               }
             },
             {
@@ -26300,6 +27767,9 @@
                   "column": 332,
                   "offset": 2567
                 }
+              },
+              "data": {
+                "stem": "ident"
               }
             },
             {
@@ -26349,6 +27819,9 @@
                   "column": 339,
                   "offset": 2574
                 }
+              },
+              "data": {
+                "stem": "issu"
               }
             },
             {
@@ -26398,6 +27871,9 @@
                   "column": 343,
                   "offset": 2578
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -26479,6 +27955,9 @@
                   "column": 349,
                   "offset": 2584
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -26528,6 +28007,9 @@
                   "column": 356,
                   "offset": 2591
                 }
+              },
+              "data": {
+                "stem": "try"
               }
             },
             {
@@ -26577,6 +28059,9 @@
                   "column": 359,
                   "offset": 2594
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -26626,6 +28111,9 @@
                   "column": 366,
                   "offset": 2601
                 }
+              },
+              "data": {
+                "stem": "figur"
               }
             },
             {
@@ -26675,6 +28163,9 @@
                   "column": 370,
                   "offset": 2605
                 }
+              },
+              "data": {
+                "stem": "out"
               }
             },
             {
@@ -26724,6 +28215,9 @@
                   "column": 374,
                   "offset": 2609
                 }
+              },
+              "data": {
+                "stem": "how"
               }
             },
             {
@@ -26773,6 +28267,9 @@
                   "column": 377,
                   "offset": 2612
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -26822,6 +28319,9 @@
                   "column": 382,
                   "offset": 2617
                 }
+              },
+              "data": {
+                "stem": "help"
               }
             },
             {
@@ -26871,6 +28371,9 @@
                   "column": 386,
                   "offset": 2621
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -26920,6 +28423,9 @@
                   "column": 394,
                   "offset": 2629
                 }
+              },
+              "data": {
+                "stem": "partner"
               }
             },
             {
@@ -26969,6 +28475,9 @@
                   "column": 405,
                   "offset": 2640
                 }
+              },
+              "data": {
+                "stem": "adequ"
               }
             },
             {
@@ -27018,6 +28527,9 @@
                   "column": 410,
                   "offset": 2645
                 }
+              },
+              "data": {
+                "stem": "care"
               }
             },
             {
@@ -27067,6 +28579,9 @@
                   "column": 414,
                   "offset": 2649
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -27116,6 +28631,9 @@
                   "column": 420,
                   "offset": 2655
                 }
+              },
+              "data": {
+                "stem": "their"
               }
             },
             {
@@ -27165,6 +28683,9 @@
                   "column": 428,
                   "offset": 2663
                 }
+              },
+              "data": {
+                "stem": "parent"
               }
             },
             {
@@ -27214,6 +28735,9 @@
                   "column": 434,
                   "offset": 2669
                 }
+              },
+              "data": {
+                "stem": "while"
               }
             },
             {
@@ -27263,6 +28787,9 @@
                   "column": 441,
                   "offset": 2676
                 }
+              },
+              "data": {
+                "stem": "make"
               }
             },
             {
@@ -27312,6 +28839,9 @@
                   "column": 446,
                   "offset": 2681
                 }
+              },
+              "data": {
+                "stem": "sure"
               }
             },
             {
@@ -27361,6 +28891,9 @@
                   "column": 450,
                   "offset": 2685
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -27410,6 +28943,9 @@
                   "column": 454,
                   "offset": 2689
                 }
+              },
+              "data": {
+                "stem": "own"
               }
             },
             {
@@ -27459,6 +28995,9 @@
                   "column": 462,
                   "offset": 2697
                 }
+              },
+              "data": {
+                "stem": "mother"
               }
             },
             {
@@ -27508,6 +29047,9 @@
                   "column": 466,
                   "offset": 2701
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -27557,6 +29099,9 @@
                   "column": 474,
                   "offset": 2709
                 }
+              },
+              "data": {
+                "stem": "father"
               }
             },
             {
@@ -27606,6 +29151,9 @@
                   "column": 478,
                   "offset": 2713
                 }
+              },
+              "data": {
+                "stem": "get"
               }
             },
             {
@@ -27655,6 +29203,9 @@
                   "column": 481,
                   "offset": 2716
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -27704,6 +29255,9 @@
                   "column": 487,
                   "offset": 2722
                 }
+              },
+              "data": {
+                "stem": "their"
               }
             },
             {
@@ -27785,6 +29339,9 @@
                   "column": 496,
                   "offset": 2731
                 }
+              },
+              "data": {
+                "stem": "doctor’"
               }
             },
             {
@@ -27834,6 +29391,9 @@
                   "column": 509,
                   "offset": 2744
                 }
+              },
+              "data": {
+                "stem": "appoint"
               }
             },
             {
@@ -27899,6 +29459,9 @@
                   "column": 513,
                   "offset": 2748
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -27980,6 +29543,9 @@
                   "column": 519,
                   "offset": 2754
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -28029,6 +29595,9 @@
                   "column": 525,
                   "offset": 2760
                 }
+              },
+              "data": {
+                "stem": "often"
               }
             },
             {
@@ -28078,6 +29647,9 @@
                   "column": 531,
                   "offset": 2766
                 }
+              },
+              "data": {
+                "stem": "tire"
               }
             },
             {
@@ -28163,6 +29735,9 @@
                   "column": 536,
                   "offset": 2771
                 }
+              },
+              "data": {
+                "stem": "but"
               }
             },
             {
@@ -28212,6 +29787,9 @@
                   "column": 539,
                   "offset": 2774
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -28261,6 +29839,9 @@
                   "column": 545,
                   "offset": 2780
                 }
+              },
+              "data": {
+                "stem": "still"
               }
             },
             {
@@ -28310,6 +29891,9 @@
                   "column": 550,
                   "offset": 2785
                 }
+              },
+              "data": {
+                "stem": "like"
               }
             },
             {
@@ -28359,6 +29943,9 @@
                   "column": 553,
                   "offset": 2788
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -28408,6 +29995,9 @@
                   "column": 556,
                   "offset": 2791
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -28457,6 +30047,9 @@
                   "column": 560,
                   "offset": 2795
                 }
+              },
+              "data": {
+                "stem": "out"
               }
             },
             {
@@ -28506,6 +30099,9 @@
                   "column": 564,
                   "offset": 2799
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -28555,6 +30151,9 @@
                   "column": 569,
                   "offset": 2804
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -28604,6 +30203,9 @@
                   "column": 571,
                   "offset": 2806
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -28653,6 +30255,9 @@
                   "column": 577,
                   "offset": 2812
                 }
+              },
+              "data": {
+                "stem": "drink"
               }
             },
             {
@@ -28702,6 +30307,9 @@
                   "column": 582,
                   "offset": 2817
                 }
+              },
+              "data": {
+                "stem": "onc"
               }
             },
             {
@@ -28751,6 +30359,9 @@
                   "column": 585,
                   "offset": 2820
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -28800,6 +30411,9 @@
                   "column": 587,
                   "offset": 2822
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -28849,6 +30463,9 @@
                   "column": 593,
                   "offset": 2828
                 }
+              },
+              "data": {
+                "stem": "while"
               }
             },
             {
@@ -28898,6 +30515,9 @@
                   "column": 597,
                   "offset": 2832
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -28947,6 +30567,9 @@
                   "column": 603,
                   "offset": 2838
                 }
+              },
+              "data": {
+                "stem": "mayb"
               }
             },
             {
@@ -28996,6 +30619,9 @@
                   "column": 608,
                   "offset": 2843
                 }
+              },
+              "data": {
+                "stem": "even"
               }
             },
             {
@@ -29045,6 +30671,9 @@
                   "column": 613,
                   "offset": 2848
                 }
+              },
+              "data": {
+                "stem": "sing"
               }
             },
             {
@@ -29094,6 +30723,9 @@
                   "column": 615,
                   "offset": 2850
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -29143,6 +30775,9 @@
                   "column": 622,
                   "offset": 2857
                 }
+              },
+              "data": {
+                "stem": "littl"
               }
             },
             {
@@ -29192,6 +30827,9 @@
                   "column": 630,
                   "offset": 2865
                 }
+              },
+              "data": {
+                "stem": "karaok"
               }
             },
             {
@@ -29326,6 +30964,9 @@
                   "column": 6,
                   "offset": 2873
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -29375,6 +31016,9 @@
                   "column": 10,
                   "offset": 2877
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -29424,6 +31068,9 @@
                   "column": 20,
                   "offset": 2887
                 }
+              },
+              "data": {
+                "stem": "satisfi"
               }
             },
             {
@@ -29473,6 +31120,9 @@
                   "column": 23,
                   "offset": 2890
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -29522,6 +31172,9 @@
                   "column": 28,
                   "offset": 2895
                 }
+              },
+              "data": {
+                "stem": "stai"
               }
             },
             {
@@ -29571,6 +31224,9 @@
                   "column": 31,
                   "offset": 2898
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -29620,6 +31276,9 @@
                   "column": 33,
                   "offset": 2900
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -29669,6 +31328,9 @@
                   "column": 42,
                   "offset": 2909
                 }
+              },
+              "data": {
+                "stem": "marriag"
               }
             },
             {
@@ -29718,6 +31380,9 @@
                   "column": 47,
                   "offset": 2914
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -29799,6 +31464,9 @@
                   "column": 53,
                   "offset": 2920
                 }
+              },
+              "data": {
+                "stem": "isn’t"
               }
             },
             {
@@ -29848,6 +31516,9 @@
                   "column": 61,
                   "offset": 2928
                 }
+              },
+              "data": {
+                "stem": "work"
               }
             },
             {
@@ -29913,6 +31584,9 @@
                   "column": 65,
                   "offset": 2932
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -29994,6 +31668,9 @@
                   "column": 71,
                   "offset": 2938
                 }
+              },
+              "data": {
+                "stem": "we’ll"
               }
             },
             {
@@ -30043,6 +31720,9 @@
                   "column": 79,
                   "offset": 2946
                 }
+              },
+              "data": {
+                "stem": "divorc"
               }
             },
             {
@@ -30092,6 +31772,9 @@
                   "column": 91,
                   "offset": 2958
                 }
+              },
+              "data": {
+                "stem": "respons"
               }
             },
             {
@@ -30157,6 +31840,9 @@
                   "column": 99,
                   "offset": 2966
                 }
+              },
+              "data": {
+                "stem": "make"
               }
             },
             {
@@ -30206,6 +31892,9 @@
                   "column": 104,
                   "offset": 2971
                 }
+              },
+              "data": {
+                "stem": "sure"
               }
             },
             {
@@ -30255,6 +31944,9 @@
                   "column": 108,
                   "offset": 2975
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -30304,6 +31996,9 @@
                   "column": 113,
                   "offset": 2980
                 }
+              },
+              "data": {
+                "stem": "kid"
               }
             },
             {
@@ -30369,6 +32064,9 @@
                   "column": 123,
                   "offset": 2990
                 }
+              },
+              "data": {
+                "stem": "concern"
               }
             },
             {
@@ -30418,6 +32116,9 @@
                   "column": 128,
                   "offset": 2995
                 }
+              },
+              "data": {
+                "stem": "take"
               }
             },
             {
@@ -30467,6 +32168,9 @@
                   "column": 135,
                   "offset": 3002
                 }
+              },
+              "data": {
+                "stem": "center"
               }
             },
             {
@@ -30516,6 +32220,9 @@
                   "column": 141,
                   "offset": 3008
                 }
+              },
+              "data": {
+                "stem": "stage"
               }
             },
             {
@@ -30581,6 +32288,9 @@
                   "column": 150,
                   "offset": 3017
                 }
+              },
+              "data": {
+                "stem": "becaus"
               }
             },
             {
@@ -30662,6 +32372,9 @@
                   "column": 157,
                   "offset": 3024
                 }
+              },
+              "data": {
+                "stem": "that’"
               }
             },
             {
@@ -30711,6 +32424,9 @@
                   "column": 166,
                   "offset": 3033
                 }
+              },
+              "data": {
+                "stem": "probabl"
               }
             },
             {
@@ -30760,6 +32476,9 @@
                   "column": 170,
                   "offset": 3037
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -30809,6 +32528,9 @@
                   "column": 175,
                   "offset": 3042
                 }
+              },
+              "data": {
+                "stem": "what"
               }
             },
             {
@@ -30858,6 +32580,9 @@
                   "column": 184,
                   "offset": 3051
                 }
+              },
+              "data": {
+                "stem": "happen"
               }
             },
             {
@@ -30907,6 +32632,9 @@
                   "column": 189,
                   "offset": 3056
                 }
+              },
+              "data": {
+                "stem": "when"
               }
             },
             {
@@ -30956,6 +32684,9 @@
                   "column": 193,
                   "offset": 3060
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -31005,6 +32736,9 @@
                   "column": 201,
                   "offset": 3068
                 }
+              },
+              "data": {
+                "stem": "parent"
               }
             },
             {
@@ -31054,6 +32788,9 @@
                   "column": 210,
                   "offset": 3077
                 }
+              },
+              "data": {
+                "stem": "divorc"
               }
             },
             {
@@ -31103,6 +32840,9 @@
                   "column": 214,
                   "offset": 3081
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -31152,6 +32892,9 @@
                   "column": 217,
                   "offset": 3084
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -31201,6 +32944,9 @@
                   "column": 222,
                   "offset": 3089
                 }
+              },
+              "data": {
+                "stem": "want"
               }
             },
             {
@@ -31250,6 +32996,9 @@
                   "column": 225,
                   "offset": 3092
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -31299,6 +33048,9 @@
                   "column": 228,
                   "offset": 3095
                 }
+              },
+              "data": {
+                "stem": "do"
               }
             },
             {
@@ -31348,6 +33100,9 @@
                   "column": 235,
                   "offset": 3102
                 }
+              },
+              "data": {
+                "stem": "better"
               }
             },
             {
@@ -31397,6 +33152,9 @@
                   "column": 238,
                   "offset": 3105
                 }
+              },
+              "data": {
+                "stem": "by"
               }
             },
             {
@@ -31446,6 +33204,9 @@
                   "column": 242,
                   "offset": 3109
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -31495,6 +33256,9 @@
                   "column": 246,
                   "offset": 3113
                 }
+              },
+              "data": {
+                "stem": "own"
               }
             },
             {
@@ -31544,6 +33308,9 @@
                   "column": 251,
                   "offset": 3118
                 }
+              },
+              "data": {
+                "stem": "kid"
               }
             },
             {
@@ -31646,6 +33413,9 @@
                   "column": 3,
                   "offset": 3123
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -31695,6 +33465,9 @@
                   "column": 8,
                   "offset": 3128
                 }
+              },
+              "data": {
+                "stem": "know"
               }
             },
             {
@@ -31744,6 +33517,9 @@
                   "column": 12,
                   "offset": 3132
                 }
+              },
+              "data": {
+                "stem": "how"
               }
             },
             {
@@ -31793,6 +33569,9 @@
                   "column": 15,
                   "offset": 3135
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -31842,6 +33621,9 @@
                   "column": 20,
                   "offset": 3140
                 }
+              },
+              "data": {
+                "stem": "cook"
               }
             },
             {
@@ -31891,6 +33673,9 @@
                   "column": 27,
                   "offset": 3147
                 }
+              },
+              "data": {
+                "stem": "dinner"
               }
             },
             {
@@ -31956,6 +33741,9 @@
                   "column": 35,
                   "offset": 3155
                 }
+              },
+              "data": {
+                "stem": "secur"
               }
             },
             {
@@ -32005,6 +33793,9 @@
                   "column": 37,
                   "offset": 3157
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -32054,6 +33845,9 @@
                   "column": 46,
                   "offset": 3166
                 }
+              },
+              "data": {
+                "stem": "mortgag"
               }
             },
             {
@@ -32119,6 +33913,9 @@
                   "column": 51,
                   "offset": 3171
                 }
+              },
+              "data": {
+                "stem": "air"
               }
             },
             {
@@ -32168,6 +33965,9 @@
                   "column": 54,
                   "offset": 3174
                 }
+              },
+              "data": {
+                "stem": "up"
               }
             },
             {
@@ -32217,6 +34017,9 @@
                   "column": 56,
                   "offset": 3176
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -32266,6 +34069,9 @@
                   "column": 64,
                   "offset": 3184
                 }
+              },
+              "data": {
+                "stem": "bicycl"
               }
             },
             {
@@ -32315,6 +34121,9 @@
                   "column": 69,
                   "offset": 3189
                 }
+              },
+              "data": {
+                "stem": "tire"
               }
             },
             {
@@ -32380,6 +34189,9 @@
                   "column": 74,
                   "offset": 3194
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -32429,6 +34241,9 @@
                   "column": 85,
                   "offset": 3205
                 }
+              },
+              "data": {
+                "stem": "skateboard"
               }
             },
             {
@@ -32494,6 +34309,9 @@
                   "column": 93,
                   "offset": 3213
                 }
+              },
+              "data": {
+                "stem": "though"
               }
             },
             {
@@ -32543,6 +34361,9 @@
                   "column": 96,
                   "offset": 3216
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -32624,6 +34445,9 @@
                   "column": 102,
                   "offset": 3222
                 }
+              },
+              "data": {
+                "stem": "don’t"
               }
             },
             {
@@ -32673,6 +34497,9 @@
                   "column": 108,
                   "offset": 3228
                 }
+              },
+              "data": {
+                "stem": "skate"
               }
             },
             {
@@ -32722,6 +34549,9 @@
                   "column": 113,
                   "offset": 3233
                 }
+              },
+              "data": {
+                "stem": "much"
               }
             },
             {
@@ -32771,6 +34601,9 @@
                   "column": 121,
                   "offset": 3241
                 }
+              },
+              "data": {
+                "stem": "anymor"
               }
             },
             {
@@ -32856,6 +34689,9 @@
                   "column": 130,
                   "offset": 3250
                 }
+              },
+              "data": {
+                "stem": "instead"
               }
             },
             {
@@ -32921,6 +34757,9 @@
                   "column": 134,
                   "offset": 3254
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -32970,6 +34809,9 @@
                   "column": 137,
                   "offset": 3257
                 }
+              },
+              "data": {
+                "stem": "do"
               }
             },
             {
@@ -33019,6 +34861,9 @@
                   "column": 142,
                   "offset": 3262
                 }
+              },
+              "data": {
+                "stem": "yoga"
               }
             },
             {
@@ -33068,6 +34913,9 @@
                   "column": 147,
                   "offset": 3267
                 }
+              },
+              "data": {
+                "stem": "when"
               }
             },
             {
@@ -33117,6 +34965,9 @@
                   "column": 150,
                   "offset": 3270
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -33166,6 +35017,9 @@
                   "column": 154,
                   "offset": 3274
                 }
+              },
+              "data": {
+                "stem": "can"
               }
             },
             {
@@ -33268,6 +35122,9 @@
                   "column": 4,
                   "offset": 3280
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -33317,6 +35174,9 @@
                   "column": 7,
                   "offset": 3283
                 }
+              },
+              "data": {
+                "stem": "as"
               }
             },
             {
@@ -33366,6 +35226,9 @@
                   "column": 10,
                   "offset": 3286
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -33415,6 +35278,9 @@
                   "column": 14,
                   "offset": 3290
                 }
+              },
+              "data": {
+                "stem": "get"
               }
             },
             {
@@ -33464,6 +35330,9 @@
                   "column": 20,
                   "offset": 3296
                 }
+              },
+              "data": {
+                "stem": "older"
               }
             },
             {
@@ -33513,6 +35382,9 @@
                   "column": 24,
                   "offset": 3300
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -33562,6 +35434,9 @@
                   "column": 34,
                   "offset": 3310
                 }
+              },
+              "data": {
+                "stem": "wrinklier"
               }
             },
             {
@@ -33611,6 +35486,9 @@
                   "column": 38,
                   "offset": 3314
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -33660,6 +35538,9 @@
                   "column": 42,
                   "offset": 3318
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -33709,6 +35590,9 @@
                   "column": 47,
                   "offset": 3323
                 }
+              },
+              "data": {
+                "stem": "hair"
               }
             },
             {
@@ -33758,6 +35642,9 @@
                   "column": 55,
                   "offset": 3331
                 }
+              },
+              "data": {
+                "stem": "whiten"
               }
             },
             {
@@ -33807,6 +35694,9 @@
                   "column": 59,
                   "offset": 3335
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -33888,6 +35778,9 @@
                   "column": 65,
                   "offset": 3341
                 }
+              },
+              "data": {
+                "stem": "we’r"
               }
             },
             {
@@ -33937,6 +35830,9 @@
                   "column": 73,
                   "offset": 3349
                 }
+              },
+              "data": {
+                "stem": "stoop"
               }
             },
             {
@@ -33986,6 +35882,9 @@
                   "column": 78,
                   "offset": 3354
                 }
+              },
+              "data": {
+                "stem": "over"
               }
             },
             {
@@ -34035,6 +35934,9 @@
                   "column": 85,
                   "offset": 3361
                 }
+              },
+              "data": {
+                "stem": "bare"
               }
             },
             {
@@ -34084,6 +35986,9 @@
                   "column": 95,
                   "offset": 3371
                 }
+              },
+              "data": {
+                "stem": "shuffl"
               }
             },
             {
@@ -34133,6 +36038,9 @@
                   "column": 101,
                   "offset": 3377
                 }
+              },
+              "data": {
+                "stem": "along"
               }
             },
             {
@@ -34198,6 +36106,9 @@
                   "column": 105,
                   "offset": 3381
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -34247,6 +36158,9 @@
                   "column": 111,
                   "offset": 3387
                 }
+              },
+              "data": {
+                "stem": "might"
               }
             },
             {
@@ -34296,6 +36210,9 @@
                   "column": 116,
                   "offset": 3392
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -34345,6 +36262,9 @@
                   "column": 119,
                   "offset": 3395
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -34394,6 +36314,9 @@
                   "column": 126,
                   "offset": 3402
                 }
+              },
+              "data": {
+                "stem": "switch"
               }
             },
             {
@@ -34443,6 +36366,9 @@
                   "column": 129,
                   "offset": 3405
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -34492,6 +36418,9 @@
                   "column": 140,
                   "offset": 3416
                 }
+              },
+              "data": {
+                "stem": "orthoped"
               }
             },
             {
@@ -34541,6 +36470,9 @@
                   "column": 146,
                   "offset": 3422
                 }
+              },
+              "data": {
+                "stem": "shoe"
               }
             },
             {
@@ -34590,6 +36522,9 @@
                   "column": 151,
                   "offset": 3427
                 }
+              },
+              "data": {
+                "stem": "from"
               }
             },
             {
@@ -34639,6 +36574,9 @@
                   "column": 155,
                   "offset": 3431
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -34688,6 +36626,9 @@
                   "column": 162,
                   "offset": 3438
                 }
+              },
+              "data": {
+                "stem": "chuck"
               }
             },
             {
@@ -34753,6 +36694,9 @@
                   "column": 166,
                   "offset": 3442
                 }
+              },
+              "data": {
+                "stem": "if"
               }
             },
             {
@@ -34802,6 +36746,9 @@
                   "column": 169,
                   "offset": 3445
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -34883,6 +36830,9 @@
                   "column": 177,
                   "offset": 3453
                 }
+              },
+              "data": {
+                "stem": "haven't"
               }
             },
             {
@@ -34932,6 +36882,9 @@
                   "column": 185,
                   "offset": 3461
                 }
+              },
+              "data": {
+                "stem": "alreadi"
               }
             },
             {
@@ -35013,6 +36966,9 @@
                   "column": 191,
                   "offset": 3467
                 }
+              },
+              "data": {
+                "stem": "but"
               }
             },
             {
@@ -35094,6 +37050,9 @@
                   "column": 197,
                   "offset": 3473
                 }
+              },
+              "data": {
+                "stem": "we’ll"
               }
             },
             {
@@ -35143,6 +37102,9 @@
                   "column": 203,
                   "offset": 3479
                 }
+              },
+              "data": {
+                "stem": "still"
               }
             },
             {
@@ -35192,6 +37154,9 @@
                   "column": 208,
                   "offset": 3484
                 }
+              },
+              "data": {
+                "stem": "have"
               }
             },
             {
@@ -35241,6 +37206,9 @@
                   "column": 213,
                   "offset": 3489
                 }
+              },
+              "data": {
+                "stem": "gun"
               }
             },
             {
@@ -35290,6 +37258,9 @@
                   "column": 215,
                   "offset": 3491
                 }
+              },
+              "data": {
+                "stem": "n"
               }
             },
             {
@@ -35355,6 +37326,9 @@
                   "column": 222,
                   "offset": 3498
                 }
+              },
+              "data": {
+                "stem": "rose"
               }
             },
             {
@@ -35404,6 +37378,9 @@
                   "column": 231,
                   "offset": 3507
                 }
+              },
+              "data": {
+                "stem": "blast"
               }
             },
             {
@@ -35453,6 +37430,9 @@
                   "column": 236,
                   "offset": 3512
                 }
+              },
+              "data": {
+                "stem": "into"
               }
             },
             {
@@ -35502,6 +37482,9 @@
                   "column": 240,
                   "offset": 3516
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -35551,6 +37534,9 @@
                   "column": 248,
                   "offset": 3524
                 }
+              },
+              "data": {
+                "stem": "hear"
               }
             },
             {
@@ -35600,6 +37586,9 @@
                   "column": 253,
                   "offset": 3529
                 }
+              },
+              "data": {
+                "stem": "aid"
               }
             },
             {
@@ -35665,6 +37654,9 @@
                   "column": 261,
                   "offset": 3537
                 }
+              },
+              "data": {
+                "stem": "dammit"
               }
             },
             {
@@ -35750,6 +37742,9 @@
                   "column": 266,
                   "offset": 3542
                 }
+              },
+              "data": {
+                "stem": "you"
               }
             },
             {
@@ -35799,6 +37794,9 @@
                   "column": 270,
                   "offset": 3546
                 }
+              },
+              "data": {
+                "stem": "can"
               }
             },
             {
@@ -35848,6 +37846,9 @@
                   "column": 275,
                   "offset": 3551
                 }
+              },
+              "data": {
+                "stem": "just"
               }
             },
             {
@@ -35897,6 +37898,9 @@
                   "column": 278,
                   "offset": 3554
                 }
+              },
+              "data": {
+                "stem": "go"
               }
             },
             {
@@ -35946,6 +37950,9 @@
                   "column": 284,
                   "offset": 3560
                 }
+              },
+              "data": {
+                "stem": "ahead"
               }
             },
             {
@@ -35995,6 +38002,9 @@
                   "column": 288,
                   "offset": 3564
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -36044,6 +38054,9 @@
                   "column": 293,
                   "offset": 3569
                 }
+              },
+              "data": {
+                "stem": "plai"
               }
             },
             {
@@ -36093,6 +38106,9 @@
                   "column": 300,
                   "offset": 3576
                 }
+              },
+              "data": {
+                "stem": "princ"
               }
             },
             {
@@ -36142,6 +38158,9 @@
                   "column": 303,
                   "offset": 3579
                 }
+              },
+              "data": {
+                "stem": "at"
               }
             },
             {
@@ -36191,6 +38210,9 @@
                   "column": 307,
                   "offset": 3583
                 }
+              },
+              "data": {
+                "stem": "all"
               }
             },
             {
@@ -36240,6 +38262,9 @@
                   "column": 311,
                   "offset": 3587
                 }
+              },
+              "data": {
+                "stem": "our"
               }
             },
             {
@@ -36289,6 +38314,9 @@
                   "column": 320,
                   "offset": 3596
                 }
+              },
+              "data": {
+                "stem": "funer"
               }
             },
             {

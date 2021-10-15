@@ -54,6 +54,9 @@
                   "column": 5,
                   "offset": 5
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -103,6 +106,9 @@
                   "column": 12,
                   "offset": 12
                 }
+              },
+              "data": {
+                "stem": "thesi"
               }
             },
             {
@@ -152,6 +158,9 @@
                   "column": 20,
                   "offset": 20
                 }
+              },
+              "data": {
+                "stem": "review"
               }
             },
             {
@@ -201,6 +210,9 @@
                   "column": 28,
                   "offset": 28
                 }
+              },
+              "data": {
+                "stem": "current"
               }
             },
             {
@@ -250,6 +262,9 @@
                   "column": 37,
                   "offset": 37
                 }
+              },
+              "data": {
+                "stem": "progress"
               }
             },
             {
@@ -299,6 +314,9 @@
                   "column": 40,
                   "offset": 40
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -348,6 +366,9 @@
                   "column": 50,
                   "offset": 50
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -397,6 +418,9 @@
                   "column": 58,
                   "offset": 58
                 }
+              },
+              "data": {
+                "stem": "scienc"
               }
             },
             {
@@ -446,6 +470,9 @@
                   "column": 66,
                   "offset": 66
                 }
+              },
+              "data": {
+                "stem": "toward"
               }
             },
             {
@@ -495,6 +522,9 @@
                   "column": 77,
                   "offset": 77
                 }
+              },
+              "data": {
+                "stem": "satisfi"
               }
             },
             {
@@ -544,6 +574,9 @@
                   "column": 81,
                   "offset": 81
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -593,6 +626,9 @@
                   "column": 94,
                   "offset": 94
                 }
+              },
+              "data": {
+                "stem": "naturalist"
               }
             },
             {
@@ -642,6 +678,9 @@
                   "column": 105,
                   "offset": 105
                 }
+              },
+              "data": {
+                "stem": "imper"
               }
             },
             {
@@ -727,6 +766,9 @@
                   "column": 114,
                   "offset": 114
                 }
+              },
+              "data": {
+                "stem": "care"
               }
             },
             {
@@ -776,6 +818,9 @@
                   "column": 124,
                   "offset": 124
                 }
+              },
+              "data": {
+                "stem": "attent"
               }
             },
             {
@@ -825,6 +870,9 @@
                   "column": 127,
                   "offset": 127
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -874,6 +922,9 @@
                   "column": 132,
                   "offset": 132
                 }
+              },
+              "data": {
+                "stem": "paid"
               }
             },
             {
@@ -923,6 +974,9 @@
                   "column": 135,
                   "offset": 135
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -972,6 +1026,9 @@
                   "column": 150,
                   "offset": 150
                 }
+              },
+              "data": {
+                "stem": "distinguish"
               }
             },
             {
@@ -1021,6 +1078,9 @@
                   "column": 163,
                   "offset": 163
                 }
+              },
+              "data": {
+                "stem": "metaphys"
               }
             },
             {
@@ -1070,6 +1130,9 @@
                   "column": 174,
                   "offset": 174
                 }
+              },
+              "data": {
+                "stem": "natur"
               }
             },
             {
@@ -1119,6 +1182,9 @@
                   "column": 179,
                   "offset": 179
                 }
+              },
+              "data": {
+                "stem": "from"
               }
             },
             {
@@ -1168,6 +1234,9 @@
                   "column": 194,
                   "offset": 194
                 }
+              },
+              "data": {
+                "stem": "methodolog"
               }
             },
             {
@@ -1217,6 +1286,9 @@
                   "column": 205,
                   "offset": 205
                 }
+              },
+              "data": {
+                "stem": "natur"
               }
             },
             {
@@ -1302,6 +1374,9 @@
                   "column": 216,
                   "offset": 216
                 }
+              },
+              "data": {
+                "stem": "follow"
               }
             },
             {
@@ -1351,6 +1426,9 @@
                   "column": 221,
                   "offset": 221
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -1416,6 +1494,9 @@
                   "column": 237,
                   "offset": 237
                 }
+              },
+              "data": {
+                "stem": "methodolog"
               }
             },
             {
@@ -1465,6 +1546,9 @@
                   "column": 248,
                   "offset": 248
                 }
+              },
+              "data": {
+                "stem": "natur"
               }
             },
             {
@@ -1514,6 +1598,9 @@
                   "column": 251,
                   "offset": 251
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -1563,6 +1650,9 @@
                   "column": 259,
                   "offset": 259
                 }
+              },
+              "data": {
+                "stem": "further"
               }
             },
             {
@@ -1612,6 +1702,9 @@
                   "column": 269,
                   "offset": 269
                 }
+              },
+              "data": {
+                "stem": "clarifi"
               }
             },
             {
@@ -1661,6 +1754,9 @@
                   "column": 272,
                   "offset": 272
                 }
+              },
+              "data": {
+                "stem": "as"
               }
             },
             {
@@ -1710,6 +1806,9 @@
                   "column": 276,
                   "offset": 276
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -1759,6 +1858,9 @@
                   "column": 280,
                   "offset": 280
                 }
+              },
+              "data": {
+                "stem": "set"
               }
             },
             {
@@ -1808,6 +1910,9 @@
                   "column": 283,
                   "offset": 283
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -1857,6 +1962,9 @@
                   "column": 295,
                   "offset": 295
                 }
+              },
+              "data": {
+                "stem": "imper"
               }
             },
             {
@@ -1922,6 +2030,9 @@
                   "column": 304,
                   "offset": 304
                 }
+              },
+              "data": {
+                "stem": "analys"
               }
             },
             {
@@ -1987,6 +2098,9 @@
                   "column": 315,
                   "offset": 315
                 }
+              },
+              "data": {
+                "stem": "formalis"
               }
             },
             {
@@ -2052,6 +2166,9 @@
                   "column": 320,
                   "offset": 320
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -2101,6 +2218,9 @@
                   "column": 330,
                   "offset": 330
                 }
+              },
+              "data": {
+                "stem": "mechanis"
               }
             },
             {
@@ -2186,6 +2306,9 @@
                   "column": 334,
                   "offset": 334
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -2235,6 +2358,9 @@
                   "column": 337,
                   "offset": 337
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -2284,6 +2410,9 @@
                   "column": 344,
                   "offset": 344
                 }
+              },
+              "data": {
+                "stem": "argu"
               }
             },
             {
@@ -2333,6 +2462,9 @@
                   "column": 349,
                   "offset": 349
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -2382,6 +2514,9 @@
                   "column": 360,
                   "offset": 360
                 }
+              },
+              "data": {
+                "stem": "simul"
               }
             },
             {
@@ -2431,6 +2566,9 @@
                   "column": 363,
                   "offset": 363
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -2480,6 +2618,9 @@
                   "column": 367,
                   "offset": 367
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -2529,6 +2670,9 @@
                   "column": 371,
                   "offset": 371
                 }
+              },
+              "data": {
+                "stem": "own"
               }
             },
             {
@@ -2578,6 +2722,9 @@
                   "column": 374,
                   "offset": 374
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -2627,6 +2774,9 @@
                   "column": 387,
                   "offset": 387
                 }
+              },
+              "data": {
+                "stem": "insuffici"
               }
             },
             {
@@ -2676,6 +2826,9 @@
                   "column": 391,
                   "offset": 391
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -2725,6 +2878,9 @@
                   "column": 402,
                   "offset": 402
                 }
+              },
+              "data": {
+                "stem": "satisfi"
               }
             },
             {
@@ -2774,6 +2930,9 @@
                   "column": 408,
                   "offset": 408
                 }
+              },
+              "data": {
+                "stem": "these"
               }
             },
             {
@@ -2823,6 +2982,9 @@
                   "column": 420,
                   "offset": 420
                 }
+              },
+              "data": {
+                "stem": "imper"
               }
             },
             {
@@ -2908,6 +3070,9 @@
                   "column": 429,
                   "offset": 429
                 }
+              },
+              "data": {
+                "stem": "instead"
               }
             },
             {
@@ -2957,6 +3122,9 @@
                   "column": 432,
                   "offset": 432
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -3006,6 +3174,9 @@
                   "column": 437,
                   "offset": 437
                 }
+              },
+              "data": {
+                "stem": "must"
               }
             },
             {
@@ -3055,6 +3226,9 @@
                   "column": 440,
                   "offset": 440
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -3104,6 +3278,9 @@
                   "column": 453,
                   "offset": 453
                 }
+              },
+              "data": {
+                "stem": "supplement"
               }
             },
             {
@@ -3153,6 +3330,9 @@
                   "column": 457,
                   "offset": 457
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -3202,6 +3382,9 @@
                   "column": 469,
                   "offset": 469
                 }
+              },
+              "data": {
+                "stem": "constrain"
               }
             },
             {
@@ -3251,6 +3434,9 @@
                   "column": 472,
                   "offset": 472
                 }
+              },
+              "data": {
+                "stem": "by"
               }
             },
             {
@@ -3300,6 +3486,9 @@
                   "column": 481,
                   "offset": 481
                 }
+              },
+              "data": {
+                "stem": "exist"
               }
             },
             {
@@ -3349,6 +3538,9 @@
                   "column": 495,
                   "offset": 495
                 }
+              },
+              "data": {
+                "stem": "psycholog"
               }
             },
             {
@@ -3398,6 +3590,9 @@
                   "column": 502,
                   "offset": 502
                 }
+              },
+              "data": {
+                "stem": "theori"
               }
             },
             {
@@ -3447,6 +3642,9 @@
                   "column": 508,
                   "offset": 508
                 }
+              },
+              "data": {
+                "stem": "which"
               }
             },
             {
@@ -3496,6 +3694,9 @@
                   "column": 513,
                   "offset": 513
                 }
+              },
+              "data": {
+                "stem": "will"
               }
             },
             {
@@ -3545,6 +3746,9 @@
                   "column": 522,
                   "offset": 522
                 }
+              },
+              "data": {
+                "stem": "indic"
               }
             },
             {
@@ -3594,6 +3798,9 @@
                   "column": 526,
                   "offset": 526
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -3643,6 +3850,9 @@
                   "column": 535,
                   "offset": 535
                 }
+              },
+              "data": {
+                "stem": "relev"
               }
             },
             {
@@ -3692,6 +3902,9 @@
                   "column": 544,
                   "offset": 544
                 }
+              },
+              "data": {
+                "stem": "featur"
               }
             },
             {
@@ -3741,6 +3954,9 @@
                   "column": 548,
                   "offset": 548
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -3790,6 +4006,9 @@
                   "column": 561,
                   "offset": 561
                 }
+              },
+              "data": {
+                "stem": "cornparis"
               }
             },
             {
@@ -3839,6 +4058,9 @@
                   "column": 564,
                   "offset": 564
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -3888,6 +4110,9 @@
                   "column": 568,
                   "offset": 568
                 }
+              },
+              "data": {
+                "stem": "ani"
               }
             },
             {
@@ -3937,6 +4162,9 @@
                   "column": 579,
                   "offset": 579
                 }
+              },
+              "data": {
+                "stem": "simul"
               }
             },
             {
@@ -3986,6 +4214,9 @@
                   "column": 584,
                   "offset": 584
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -4035,6 +4266,9 @@
                   "column": 590,
                   "offset": 590
                 }
+              },
+              "data": {
+                "stem": "seek"
               }
             },
             {
@@ -4084,6 +4318,9 @@
                   "column": 593,
                   "offset": 593
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -4133,6 +4370,9 @@
                   "column": 596,
                   "offset": 596
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -4182,6 +4422,9 @@
                   "column": 599,
                   "offset": 599
                 }
+              },
+              "data": {
+                "stem": "an"
               }
             },
             {
@@ -4231,6 +4474,9 @@
                   "column": 611,
                   "offset": 611
                 }
+              },
+              "data": {
+                "stem": "explan"
               }
             },
             {
@@ -4280,6 +4526,9 @@
                   "column": 614,
                   "offset": 614
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -4329,6 +4578,9 @@
                   "column": 620,
                   "offset": 620
                 }
+              },
+              "data": {
+                "stem": "human"
               }
             },
             {
@@ -4378,6 +4630,9 @@
                   "column": 630,
                   "offset": 630
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -4463,6 +4718,9 @@
                   "column": 641,
                   "offset": 641
                 }
+              },
+              "data": {
+                "stem": "therefor"
               }
             },
             {
@@ -4528,6 +4786,9 @@
                   "column": 645,
                   "offset": 645
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -4577,6 +4838,9 @@
                   "column": 650,
                   "offset": 650
                 }
+              },
+              "data": {
+                "stem": "turn"
               }
             },
             {
@@ -4626,6 +4890,9 @@
                   "column": 653,
                   "offset": 653
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -4675,6 +4942,9 @@
                   "column": 656,
                   "offset": 656
                 }
+              },
+              "data": {
+                "stem": "an"
               }
             },
             {
@@ -4724,6 +4994,9 @@
                   "column": 668,
                   "offset": 668
                 }
+              },
+              "data": {
+                "stem": "examin"
               }
             },
             {
@@ -4773,6 +5046,9 @@
                   "column": 671,
                   "offset": 671
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -4822,6 +5098,9 @@
                   "column": 679,
                   "offset": 679
                 }
+              },
+              "data": {
+                "stem": "current"
               }
             },
             {
@@ -4871,6 +5150,9 @@
                   "column": 684,
                   "offset": 684
                 }
+              },
+              "data": {
+                "stem": "work"
               }
             },
             {
@@ -4920,6 +5202,9 @@
                   "column": 687,
                   "offset": 687
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -4969,6 +5254,9 @@
                   "column": 697,
                   "offset": 697
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -5018,6 +5306,9 @@
                   "column": 708,
                   "offset": 708
                 }
+              },
+              "data": {
+                "stem": "psycholog"
               }
             },
             {
@@ -5103,6 +5394,9 @@
                   "column": 722,
                   "offset": 722
                 }
+              },
+              "data": {
+                "stem": "specif"
               }
             },
             {
@@ -5168,6 +5462,9 @@
                   "column": 726,
                   "offset": 726
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -5217,6 +5514,9 @@
                   "column": 734,
                   "offset": 734
                 }
+              },
+              "data": {
+                "stem": "examin"
               }
             },
             {
@@ -5266,6 +5566,9 @@
                   "column": 740,
                   "offset": 740
                 }
+              },
+              "data": {
+                "stem": "area"
               }
             },
             {
@@ -5315,6 +5618,9 @@
                   "column": 746,
                   "offset": 746
                 }
+              },
+              "data": {
+                "stem": "where"
               }
             },
             {
@@ -5364,6 +5670,9 @@
                   "column": 755,
                   "offset": 755
                 }
+              },
+              "data": {
+                "stem": "attempt"
               }
             },
             {
@@ -5413,6 +5722,9 @@
                   "column": 759,
                   "offset": 759
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -5462,6 +5774,9 @@
                   "column": 765,
                   "offset": 765
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -5511,6 +5826,9 @@
                   "column": 770,
                   "offset": 770
                 }
+              },
+              "data": {
+                "stem": "made"
               }
             },
             {
@@ -5560,6 +5878,9 @@
                   "column": 773,
                   "offset": 773
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -5609,6 +5930,9 @@
                   "column": 781,
                   "offset": 781
                 }
+              },
+              "data": {
+                "stem": "analys"
               }
             },
             {
@@ -5658,6 +5982,9 @@
                   "column": 785,
                   "offset": 785
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -5707,6 +6034,9 @@
                   "column": 799,
                   "offset": 799
                 }
+              },
+              "data": {
+                "stem": "psycholog"
               }
             },
             {
@@ -5756,6 +6086,9 @@
                   "column": 809,
                   "offset": 809
                 }
+              },
+              "data": {
+                "stem": "formalis"
               }
             },
             {
@@ -5805,6 +6138,9 @@
                   "column": 819,
                   "offset": 819
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -5854,6 +6190,9 @@
                   "column": 829,
                   "offset": 829
                 }
+              },
+              "data": {
+                "stem": "process"
               }
             },
             {
@@ -5956,6 +6295,9 @@
                   "column": 3,
                   "offset": 834
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -6021,6 +6363,9 @@
                   "column": 8,
                   "offset": 839
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -6070,6 +6415,9 @@
                   "column": 11,
                   "offset": 842
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -6119,6 +6467,9 @@
                   "column": 17,
                   "offset": 848
                 }
+              },
+              "data": {
+                "stem": "term"
               }
             },
             {
@@ -6168,6 +6519,9 @@
                   "column": 24,
                   "offset": 855
                 }
+              },
+              "data": {
+                "stem": "thesi"
               }
             },
             {
@@ -6217,6 +6571,9 @@
                   "column": 27,
                   "offset": 858
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -6266,6 +6623,9 @@
                   "column": 32,
                   "offset": 863
                 }
+              },
+              "data": {
+                "stem": "more"
               }
             },
             {
@@ -6315,6 +6675,9 @@
                   "column": 41,
                   "offset": 872
                 }
+              },
+              "data": {
+                "stem": "proce"
               }
             },
             {
@@ -6364,6 +6727,9 @@
                   "column": 44,
                   "offset": 875
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -6413,6 +6779,9 @@
                   "column": 50,
                   "offset": 881
                 }
+              },
+              "data": {
+                "stem": "basic"
               }
             },
             {
@@ -6462,6 +6831,9 @@
                   "column": 58,
                   "offset": 889
                 }
+              },
+              "data": {
+                "stem": "examin"
               }
             },
             {
@@ -6511,6 +6883,9 @@
                   "column": 66,
                   "offset": 897
                 }
+              },
+              "data": {
+                "stem": "current"
               }
             },
             {
@@ -6560,6 +6935,9 @@
                   "column": 71,
                   "offset": 902
                 }
+              },
+              "data": {
+                "stem": "work"
               }
             },
             {
@@ -6609,6 +6987,9 @@
                   "column": 74,
                   "offset": 905
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -6658,6 +7039,9 @@
                   "column": 89,
                   "offset": 920
                 }
+              },
+              "data": {
+                "stem": "categoris"
               }
             },
             {
@@ -6707,6 +7091,9 @@
                   "column": 93,
                   "offset": 924
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -6756,6 +7143,9 @@
                   "column": 97,
                   "offset": 928
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -6805,6 +7195,9 @@
                   "column": 104,
                   "offset": 935
                 }
+              },
+              "data": {
+                "stem": "natur"
               }
             },
             {
@@ -6854,6 +7247,9 @@
                   "column": 107,
                   "offset": 938
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -6903,6 +7299,9 @@
                   "column": 116,
                   "offset": 947
                 }
+              },
+              "data": {
+                "stem": "concept"
               }
             },
             {
@@ -6968,6 +7367,9 @@
                   "column": 124,
                   "offset": 955
                 }
+              },
+              "data": {
+                "stem": "memori"
               }
             },
             {
@@ -7033,6 +7435,9 @@
                   "column": 134,
                   "offset": 965
                 }
+              },
+              "data": {
+                "stem": "problern"
               }
             },
             {
@@ -7082,6 +7487,9 @@
                   "column": 142,
                   "offset": 973
                 }
+              },
+              "data": {
+                "stem": "solv"
               }
             },
             {
@@ -7147,6 +7555,9 @@
                   "column": 147,
                   "offset": 978
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -7196,6 +7607,9 @@
                   "column": 10,
                   "offset": 988
                 }
+              },
+              "data": {
+                "stem": "infer"
               }
             },
             {
@@ -7281,6 +7695,9 @@
                   "column": 14,
                   "offset": 992
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -7330,6 +7747,9 @@
                   "column": 20,
                   "offset": 998
                 }
+              },
+              "data": {
+                "stem": "show"
               }
             },
             {
@@ -7379,6 +7799,9 @@
                   "column": 24,
                   "offset": 1002
                 }
+              },
+              "data": {
+                "stem": "how"
               }
             },
             {
@@ -7428,6 +7851,9 @@
                   "column": 29,
                   "offset": 1007
                 }
+              },
+              "data": {
+                "stem": "each"
               }
             },
             {
@@ -7477,6 +7903,9 @@
                   "column": 33,
                   "offset": 1011
                 }
+              },
+              "data": {
+                "stem": "can"
               }
             },
             {
@@ -7526,6 +7955,9 @@
                   "column": 36,
                   "offset": 1014
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -7575,6 +8007,9 @@
                   "column": 47,
                   "offset": 1025
                 }
+              },
+              "data": {
+                "stem": "consid"
               }
             },
             {
@@ -7624,6 +8059,9 @@
                   "column": 49,
                   "offset": 1027
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -7673,6 +8111,9 @@
                   "column": 55,
                   "offset": 1033
                 }
+              },
+              "data": {
+                "stem": "basic"
               }
             },
             {
@@ -7722,6 +8163,9 @@
                   "column": 63,
                   "offset": 1041
                 }
+              },
+              "data": {
+                "stem": "process"
               }
             },
             {
@@ -7771,6 +8215,9 @@
                   "column": 66,
                   "offset": 1044
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -7820,6 +8267,9 @@
                   "column": 71,
                   "offset": 1049
                 }
+              },
+              "data": {
+                "stem": "tem"
               }
             },
             {
@@ -7869,6 +8319,9 @@
                   "column": 74,
                   "offset": 1052
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -7918,6 +8371,9 @@
                   "column": 80,
                   "offset": 1058
                 }
+              },
+              "data": {
+                "stem": "which"
               }
             },
             {
@@ -7967,6 +8423,9 @@
                   "column": 84,
                   "offset": 1062
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -8016,6 +8475,9 @@
                   "column": 89,
                   "offset": 1067
                 }
+              },
+              "data": {
+                "stem": "rest"
               }
             },
             {
@@ -8065,6 +8527,9 @@
                   "column": 92,
                   "offset": 1070
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -8114,6 +8579,9 @@
                   "column": 102,
                   "offset": 1080
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -8163,6 +8631,9 @@
                   "column": 108,
                   "offset": 1086
                 }
+              },
+              "data": {
+                "stem": "might"
               }
             },
             {
@@ -8212,6 +8683,9 @@
                   "column": 111,
                   "offset": 1089
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -8261,6 +8735,9 @@
                   "column": 120,
                   "offset": 1098
                 }
+              },
+              "data": {
+                "stem": "analys"
               }
             },
             {
@@ -8310,6 +8787,9 @@
                   "column": 124,
                   "offset": 1102
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -8359,6 +8839,9 @@
                   "column": 135,
                   "offset": 1113
                 }
+              },
+              "data": {
+                "stem": "formalis"
               }
             },
             {
@@ -8444,6 +8927,9 @@
                   "column": 144,
                   "offset": 1122
                 }
+              },
+              "data": {
+                "stem": "howev"
               }
             },
             {
@@ -8509,6 +8995,9 @@
                   "column": 148,
                   "offset": 1126
                 }
+              },
+              "data": {
+                "stem": "we"
               }
             },
             {
@@ -8558,6 +9047,9 @@
                   "column": 153,
                   "offset": 1131
                 }
+              },
+              "data": {
+                "stem": "also"
               }
             },
             {
@@ -8607,6 +9099,9 @@
                   "column": 162,
                   "offset": 1140
                 }
+              },
+              "data": {
+                "stem": "discov"
               }
             },
             {
@@ -8656,6 +9151,9 @@
                   "column": 167,
                   "offset": 1145
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -8705,6 +9203,9 @@
                   "column": 170,
                   "offset": 1148
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -8754,6 +9255,9 @@
                   "column": 175,
                   "offset": 1153
                 }
+              },
+              "data": {
+                "stem": "each"
               }
             },
             {
@@ -8803,6 +9307,9 @@
                   "column": 178,
                   "offset": 1156
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -8852,6 +9359,9 @@
                   "column": 184,
                   "offset": 1162
                 }
+              },
+              "data": {
+                "stem": "these"
               }
             },
             {
@@ -8901,6 +9411,9 @@
                   "column": 190,
                   "offset": 1168
                 }
+              },
+              "data": {
+                "stem": "area"
               }
             },
             {
@@ -8950,6 +9463,9 @@
                   "column": 200,
                   "offset": 1178
                 }
+              },
+              "data": {
+                "stem": "serious"
               }
             },
             {
@@ -8999,6 +9515,9 @@
                   "column": 211,
                   "offset": 1189
                 }
+              },
+              "data": {
+                "stem": "frustrat"
               }
             },
             {
@@ -9048,6 +9567,9 @@
                   "column": 214,
                   "offset": 1192
                 }
+              },
+              "data": {
+                "stem": "by"
               }
             },
             {
@@ -9097,6 +9619,9 @@
                   "column": 218,
                   "offset": 1196
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -9146,6 +9671,9 @@
                   "column": 231,
                   "offset": 1209
                 }
+              },
+              "data": {
+                "stem": "naturalist"
               }
             },
             {
@@ -9195,6 +9723,9 @@
                   "column": 242,
                   "offset": 1220
                 }
+              },
+              "data": {
+                "stem": "imper"
               }
             },
             {
@@ -9244,6 +9775,9 @@
                   "column": 245,
                   "offset": 1223
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -9293,6 +9827,9 @@
                   "column": 251,
                   "offset": 1229
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -9342,6 +9879,9 @@
                   "column": 253,
                   "offset": 1231
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -9391,6 +9931,9 @@
                   "column": 265,
                   "offset": 1243
                 }
+              },
+              "data": {
+                "stem": "combin"
               }
             },
             {
@@ -9440,6 +9983,9 @@
                   "column": 268,
                   "offset": 1246
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -9489,6 +10035,9 @@
                   "column": 279,
                   "offset": 1257
                 }
+              },
+              "data": {
+                "stem": "conceptu"
               }
             },
             {
@@ -9538,6 +10087,9 @@
                   "column": 283,
                   "offset": 1261
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -9587,6 +10139,9 @@
                   "column": 299,
                   "offset": 1277
                 }
+              },
+              "data": {
+                "stem": "methodolog"
               }
             },
             {
@@ -9636,6 +10191,9 @@
                   "column": 308,
                   "offset": 1286
                 }
+              },
+              "data": {
+                "stem": "problem"
               }
             },
             {
@@ -9721,6 +10279,9 @@
                   "column": 312,
                   "offset": 1290
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -9770,6 +10331,9 @@
                   "column": 315,
                   "offset": 1293
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -9819,6 +10383,9 @@
                   "column": 323,
                   "offset": 1301
                 }
+              },
+              "data": {
+                "stem": "further"
               }
             },
             {
@@ -9868,6 +10435,9 @@
                   "column": 329,
                   "offset": 1307
                 }
+              },
+              "data": {
+                "stem": "shown"
               }
             },
             {
@@ -9917,6 +10487,9 @@
                   "column": 334,
                   "offset": 1312
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -9966,6 +10539,9 @@
                   "column": 340,
                   "offset": 1318
                 }
+              },
+              "data": {
+                "stem": "these"
               }
             },
             {
@@ -10015,6 +10591,9 @@
                   "column": 349,
                   "offset": 1327
                 }
+              },
+              "data": {
+                "stem": "problem"
               }
             },
             {
@@ -10064,6 +10643,9 @@
                   "column": 353,
                   "offset": 1331
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -10113,6 +10695,9 @@
                   "column": 357,
                   "offset": 1335
                 }
+              },
+              "data": {
+                "stem": "not"
               }
             },
             {
@@ -10162,6 +10747,9 @@
                   "column": 369,
                   "offset": 1347
                 }
+              },
+              "data": {
+                "stem": "independ"
               }
             },
             {
@@ -10211,6 +10799,9 @@
                   "column": 373,
                   "offset": 1351
                 }
+              },
+              "data": {
+                "stem": "but"
               }
             },
             {
@@ -10260,6 +10851,9 @@
                   "column": 378,
                   "offset": 1356
                 }
+              },
+              "data": {
+                "stem": "stem"
               }
             },
             {
@@ -10309,6 +10903,9 @@
                   "column": 383,
                   "offset": 1361
                 }
+              },
+              "data": {
+                "stem": "from"
               }
             },
             {
@@ -10358,6 +10955,9 @@
                   "column": 385,
                   "offset": 1363
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -10407,6 +11007,9 @@
                   "column": 390,
                   "offset": 1368
                 }
+              },
+              "data": {
+                "stem": "deep"
               }
             },
             {
@@ -10456,6 +11059,9 @@
                   "column": 398,
                   "offset": 1376
                 }
+              },
+              "data": {
+                "stem": "problem"
               }
             },
             {
@@ -10505,6 +11111,9 @@
                   "column": 409,
                   "offset": 1387
                 }
+              },
+              "data": {
+                "stem": "concern"
               }
             },
             {
@@ -10554,6 +11163,9 @@
                   "column": 413,
                   "offset": 1391
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -10603,6 +11215,9 @@
                   "column": 426,
                   "offset": 1404
                 }
+              },
+              "data": {
+                "stem": "relationship"
               }
             },
             {
@@ -10652,6 +11267,9 @@
                   "column": 434,
                   "offset": 1412
                 }
+              },
+              "data": {
+                "stem": "between"
               }
             },
             {
@@ -10701,6 +11319,9 @@
                   "column": 438,
                   "offset": 1416
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -10750,6 +11371,9 @@
                   "column": 442,
                   "offset": 1420
                 }
+              },
+              "data": {
+                "stem": "two"
               }
             },
             {
@@ -10799,6 +11423,9 @@
                   "column": 450,
                   "offset": 1428
                 }
+              },
+              "data": {
+                "stem": "central"
               }
             },
             {
@@ -10848,6 +11475,9 @@
                   "column": 458,
                   "offset": 1436
                 }
+              },
+              "data": {
+                "stem": "notion"
               }
             },
             {
@@ -10897,6 +11527,9 @@
                   "column": 461,
                   "offset": 1439
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -10946,6 +11579,9 @@
                   "column": 476,
                   "offset": 1454
                 }
+              },
+              "data": {
+                "stem": "represent"
               }
             },
             {
@@ -10995,6 +11631,9 @@
                   "column": 480,
                   "offset": 1458
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -11044,6 +11683,9 @@
                   "column": 490,
                   "offset": 1468
                 }
+              },
+              "data": {
+                "stem": "relev"
               }
             },
             {
@@ -11129,6 +11771,9 @@
                   "column": 495,
                   "offset": 1473
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -11178,6 +11823,9 @@
                   "column": 502,
                   "offset": 1480
                 }
+              },
+              "data": {
+                "stem": "thesi"
               }
             },
             {
@@ -11227,6 +11875,9 @@
                   "column": 509,
                   "offset": 1487
                 }
+              },
+              "data": {
+                "stem": "argu"
               }
             },
             {
@@ -11276,6 +11927,9 @@
                   "column": 513,
                   "offset": 1491
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -11325,6 +11979,9 @@
                   "column": 515,
                   "offset": 1493
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -11374,6 +12031,9 @@
                   "column": 520,
                   "offset": 1498
                 }
+              },
+              "data": {
+                "stem": "veri"
               }
             },
             {
@@ -11423,6 +12083,9 @@
                   "column": 526,
                   "offset": 1504
                 }
+              },
+              "data": {
+                "stem": "tight"
               }
             },
             {
@@ -11472,6 +12135,9 @@
                   "column": 542,
                   "offset": 1520
                 }
+              },
+              "data": {
+                "stem": "interdepend"
               }
             },
             {
@@ -11521,6 +12187,9 @@
                   "column": 550,
                   "offset": 1528
                 }
+              },
+              "data": {
+                "stem": "between"
               }
             },
             {
@@ -11570,6 +12239,9 @@
                   "column": 554,
                   "offset": 1532
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -11619,6 +12291,9 @@
                   "column": 558,
                   "offset": 1536
                 }
+              },
+              "data": {
+                "stem": "two"
               }
             },
             {
@@ -11668,6 +12343,9 @@
                   "column": 566,
                   "offset": 1544
                 }
+              },
+              "data": {
+                "stem": "notion"
               }
             },
             {
@@ -11717,6 +12395,9 @@
                   "column": 569,
                   "offset": 1547
                 }
+              },
+              "data": {
+                "stem": "so"
               }
             },
             {
@@ -11766,6 +12447,9 @@
                   "column": 574,
                   "offset": 1552
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -11815,6 +12499,9 @@
                   "column": 583,
                   "offset": 1561
                 }
+              },
+              "data": {
+                "stem": "whenev"
               }
             },
             {
@@ -11864,6 +12551,9 @@
                   "column": 587,
                   "offset": 1565
                 }
+              },
+              "data": {
+                "stem": "on"
               }
             },
             {
@@ -11913,6 +12603,9 @@
                   "column": 590,
                   "offset": 1568
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -11962,6 +12655,9 @@
                   "column": 596,
                   "offset": 1574
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -12011,6 +12707,9 @@
                   "column": 601,
                   "offset": 1579
                 }
+              },
+              "data": {
+                "stem": "us"
               }
             },
             {
@@ -12060,6 +12759,9 @@
                   "column": 615,
                   "offset": 1593
                 }
+              },
+              "data": {
+                "stem": "theoret"
               }
             },
             {
@@ -12109,6 +12811,9 @@
                   "column": 619,
                   "offset": 1597
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -12158,6 +12863,9 @@
                   "column": 625,
                   "offset": 1603
                 }
+              },
+              "data": {
+                "stem": "other"
               }
             },
             {
@@ -12207,6 +12915,9 @@
                   "column": 628,
                   "offset": 1606
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -12256,6 +12967,9 @@
                   "column": 634,
                   "offset": 1612
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -12305,6 +13019,9 @@
                   "column": 646,
                   "offset": 1624
                 }
+              },
+              "data": {
+                "stem": "presuppos"
               }
             },
             {
@@ -12390,6 +13107,9 @@
                   "column": 650,
                   "offset": 1628
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -12439,6 +13159,9 @@
                   "column": 655,
                   "offset": 1633
                 }
+              },
+              "data": {
+                "stem": "turn"
               }
             },
             {
@@ -12504,6 +13227,9 @@
                   "column": 659,
                   "offset": 1637
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -12553,6 +13279,9 @@
                   "column": 666,
                   "offset": 1644
                 }
+              },
+              "data": {
+                "stem": "argu"
               }
             },
             {
@@ -12602,6 +13331,9 @@
                   "column": 671,
                   "offset": 1649
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -12651,6 +13383,9 @@
                   "column": 676,
                   "offset": 1654
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -12700,6 +13435,9 @@
                   "column": 692,
                   "offset": 1670
                 }
+              },
+              "data": {
+                "stem": "interdepend"
               }
             },
             {
@@ -12749,6 +13487,9 @@
                   "column": 695,
                   "offset": 1673
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -12798,6 +13539,9 @@
                   "column": 707,
                   "offset": 1685
                 }
+              },
+              "data": {
+                "stem": "frustrat"
               }
             },
             {
@@ -12847,6 +13591,9 @@
                   "column": 715,
                   "offset": 1693
                 }
+              },
+              "data": {
+                "stem": "current"
               }
             },
             {
@@ -12896,6 +13643,9 @@
                   "column": 724,
                   "offset": 1702
                 }
+              },
+              "data": {
+                "stem": "attempt"
               }
             },
             {
@@ -12945,6 +13695,9 @@
                   "column": 727,
                   "offset": 1705
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -12994,6 +13747,9 @@
                   "column": 738,
                   "offset": 1716
                 }
+              },
+              "data": {
+                "stem": "naturalis"
               }
             },
             {
@@ -13043,6 +13799,9 @@
                   "column": 748,
                   "offset": 1726
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -13128,6 +13887,9 @@
                   "column": 754,
                   "offset": 1732
                 }
+              },
+              "data": {
+                "stem": "what"
               }
             },
             {
@@ -13177,6 +13939,9 @@
                   "column": 759,
                   "offset": 1737
                 }
+              },
+              "data": {
+                "stem": "then"
               }
             },
             {
@@ -13226,6 +13991,9 @@
                   "column": 767,
                   "offset": 1745
                 }
+              },
+              "data": {
+                "stem": "follow"
               }
             },
             {
@@ -13275,6 +14043,9 @@
                   "column": 770,
                   "offset": 1748
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -13324,6 +14095,9 @@
                   "column": 773,
                   "offset": 1751
                 }
+              },
+              "data": {
+                "stem": "an"
               }
             },
             {
@@ -13373,6 +14147,9 @@
                   "column": 785,
                   "offset": 1763
                 }
+              },
+              "data": {
+                "stem": "examin"
               }
             },
             {
@@ -13422,6 +14199,9 @@
                   "column": 788,
                   "offset": 1766
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -13471,6 +14251,9 @@
                   "column": 797,
                   "offset": 1775
                 }
+              },
+              "data": {
+                "stem": "attempt"
               }
             },
             {
@@ -13520,6 +14303,9 @@
                   "column": 800,
                   "offset": 1778
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -13569,6 +14355,9 @@
                   "column": 806,
                   "offset": 1784
                 }
+              },
+              "data": {
+                "stem": "break"
               }
             },
             {
@@ -13618,6 +14407,9 @@
                   "column": 810,
                   "offset": 1788
                 }
+              },
+              "data": {
+                "stem": "out"
               }
             },
             {
@@ -13667,6 +14459,9 @@
                   "column": 813,
                   "offset": 1791
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -13716,6 +14511,9 @@
                   "column": 818,
                   "offset": 1796
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -13765,6 +14563,9 @@
                   "column": 823,
                   "offset": 1801
                 }
+              },
+              "data": {
+                "stem": "bind"
               }
             },
             {
@@ -13814,6 +14615,9 @@
                   "column": 826,
                   "offset": 1804
                 }
+              },
+              "data": {
+                "stem": "by"
               }
             },
             {
@@ -13863,6 +14667,9 @@
                   "column": 840,
                   "offset": 1818
                 }
+              },
+              "data": {
+                "stem": "independ"
               }
             },
             {
@@ -13912,6 +14719,9 @@
                   "column": 853,
                   "offset": 1831
                 }
+              },
+              "data": {
+                "stem": "naturalis"
               }
             },
             {
@@ -13961,6 +14771,9 @@
                   "column": 868,
                   "offset": 1846
                 }
+              },
+              "data": {
+                "stem": "represent"
               }
             },
             {
@@ -14010,6 +14823,9 @@
                   "column": 871,
                   "offset": 1849
                 }
+              },
+              "data": {
+                "stem": "or"
               }
             },
             {
@@ -14059,6 +14875,9 @@
                   "column": 881,
                   "offset": 1859
                 }
+              },
+              "data": {
+                "stem": "relev"
               }
             },
             {
@@ -14144,6 +14963,9 @@
                   "column": 888,
                   "offset": 1866
                 }
+              },
+              "data": {
+                "stem": "these"
               }
             },
             {
@@ -14193,6 +15015,9 @@
                   "column": 892,
                   "offset": 1870
                 }
+              },
+              "data": {
+                "stem": "two"
               }
             },
             {
@@ -14242,6 +15067,9 @@
                   "column": 901,
                   "offset": 1879
                 }
+              },
+              "data": {
+                "stem": "project"
               }
             },
             {
@@ -14291,6 +15119,9 @@
                   "column": 905,
                   "offset": 1883
                 }
+              },
+              "data": {
+                "stem": "ar"
               }
             },
             {
@@ -14340,6 +15171,9 @@
                   "column": 911,
                   "offset": 1889
                 }
+              },
+              "data": {
+                "stem": "shown"
               }
             },
             {
@@ -14389,6 +15223,9 @@
                   "column": 914,
                   "offset": 1892
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -14438,6 +15275,9 @@
                   "column": 919,
                   "offset": 1897
                 }
+              },
+              "data": {
+                "stem": "fail"
               }
             },
             {
@@ -14487,6 +15327,9 @@
                   "column": 929,
                   "offset": 1907
                 }
+              },
+              "data": {
+                "stem": "precis"
               }
             },
             {
@@ -14536,6 +15379,9 @@
                   "column": 937,
                   "offset": 1915
                 }
+              },
+              "data": {
+                "stem": "becaus"
               }
             },
             {
@@ -14585,6 +15431,9 @@
                   "column": 942,
                   "offset": 1920
                 }
+              },
+              "data": {
+                "stem": "thei"
               }
             },
             {
@@ -14634,6 +15483,9 @@
                   "column": 949,
                   "offset": 1927
                 }
+              },
+              "data": {
+                "stem": "cannot"
               }
             },
             {
@@ -14683,6 +15535,9 @@
                   "column": 955,
                   "offset": 1933
                 }
+              },
+              "data": {
+                "stem": "break"
               }
             },
             {
@@ -14732,6 +15587,9 @@
                   "column": 959,
                   "offset": 1937
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -14781,6 +15639,9 @@
                   "column": 975,
                   "offset": 1953
                 }
+              },
+              "data": {
+                "stem": "interdepend"
               }
             },
             {
@@ -14830,6 +15691,9 @@
                   "column": 983,
                   "offset": 1961
                 }
+              },
+              "data": {
+                "stem": "between"
               }
             },
             {
@@ -14879,6 +15743,9 @@
                   "column": 998,
                   "offset": 1976
                 }
+              },
+              "data": {
+                "stem": "represent"
               }
             },
             {
@@ -14928,6 +15795,9 @@
                   "column": 1002,
                   "offset": 1980
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -14977,6 +15847,9 @@
                   "column": 1012,
                   "offset": 1990
                 }
+              },
+              "data": {
+                "stem": "relev"
               }
             },
             {
@@ -15062,6 +15935,9 @@
                   "column": 1016,
                   "offset": 1994
                 }
+              },
+              "data": {
+                "stem": "it"
               }
             },
             {
@@ -15111,6 +15987,9 @@
                   "column": 1019,
                   "offset": 1997
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -15160,6 +16039,9 @@
                   "column": 1026,
                   "offset": 2004
                 }
+              },
+              "data": {
+                "stem": "argu"
               }
             },
             {
@@ -15209,6 +16091,9 @@
                   "column": 1031,
                   "offset": 2009
                 }
+              },
+              "data": {
+                "stem": "that"
               }
             },
             {
@@ -15258,6 +16143,9 @@
                   "column": 1036,
                   "offset": 2014
                 }
+              },
+              "data": {
+                "stem": "what"
               }
             },
             {
@@ -15307,6 +16195,9 @@
                   "column": 1039,
                   "offset": 2017
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -15356,6 +16247,9 @@
                   "column": 1046,
                   "offset": 2024
                 }
+              },
+              "data": {
+                "stem": "behind"
               }
             },
             {
@@ -15405,6 +16299,9 @@
                   "column": 1051,
                   "offset": 2029
                 }
+              },
+              "data": {
+                "stem": "thi"
               }
             },
             {
@@ -15486,6 +16383,9 @@
                   "column": 1083,
                   "offset": 2061
                 }
+              },
+              "data": {
+                "stem": "representation-relevanceproblem"
               }
             },
             {
@@ -15535,6 +16435,9 @@
                   "column": 1086,
                   "offset": 2064
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -15584,6 +16487,9 @@
                   "column": 1088,
                   "offset": 2066
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -15633,6 +16539,9 @@
                   "column": 1093,
                   "offset": 2071
                 }
+              },
+              "data": {
+                "stem": "veri"
               }
             },
             {
@@ -15682,6 +16591,9 @@
                   "column": 1101,
                   "offset": 2079
                 }
+              },
+              "data": {
+                "stem": "seriou"
               }
             },
             {
@@ -15731,6 +16643,9 @@
                   "column": 1109,
                   "offset": 2087
                 }
+              },
+              "data": {
+                "stem": "problem"
               }
             },
             {
@@ -15780,6 +16695,9 @@
                   "column": 1112,
                   "offset": 2090
                 }
+              },
+              "data": {
+                "stem": "in"
               }
             },
             {
@@ -15829,6 +16747,9 @@
                   "column": 1116,
                   "offset": 2094
                 }
+              },
+              "data": {
+                "stem": "ani"
               }
             },
             {
@@ -15878,6 +16799,9 @@
                   "column": 1124,
                   "offset": 2102
                 }
+              },
+              "data": {
+                "stem": "attempt"
               }
             },
             {
@@ -15927,6 +16851,9 @@
                   "column": 1127,
                   "offset": 2105
                 }
+              },
+              "data": {
+                "stem": "to"
               }
             },
             {
@@ -15976,6 +16903,9 @@
                   "column": 1138,
                   "offset": 2116
                 }
+              },
+              "data": {
+                "stem": "naturalis"
               }
             },
             {
@@ -16025,6 +16955,9 @@
                   "column": 1142,
                   "offset": 2120
                 }
+              },
+              "data": {
+                "stem": "the"
               }
             },
             {
@@ -16074,6 +17007,9 @@
                   "column": 1149,
                   "offset": 2127
                 }
+              },
+              "data": {
+                "stem": "notion"
               }
             },
             {
@@ -16123,6 +17059,9 @@
                   "column": 1152,
                   "offset": 2130
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -16172,6 +17111,9 @@
                   "column": 1162,
                   "offset": 2140
                 }
+              },
+              "data": {
+                "stem": "relev"
               }
             },
             {
@@ -16257,6 +17199,9 @@
                   "column": 1171,
                   "offset": 2149
                 }
+              },
+              "data": {
+                "stem": "final"
               }
             },
             {
@@ -16322,6 +17267,9 @@
                   "column": 1178,
                   "offset": 2156
                 }
+              },
+              "data": {
+                "stem": "there"
               }
             },
             {
@@ -16371,6 +17319,9 @@
                   "column": 1181,
                   "offset": 2159
                 }
+              },
+              "data": {
+                "stem": "is"
               }
             },
             {
@@ -16420,6 +17371,9 @@
                   "column": 1183,
                   "offset": 2161
                 }
+              },
+              "data": {
+                "stem": "a"
               }
             },
             {
@@ -16469,6 +17423,9 @@
                   "column": 1194,
                   "offset": 2172
                 }
+              },
+              "data": {
+                "stem": "discuss"
               }
             },
             {
@@ -16518,6 +17475,9 @@
                   "column": 1197,
                   "offset": 2175
                 }
+              },
+              "data": {
+                "stem": "of"
               }
             },
             {
@@ -16567,6 +17527,9 @@
                   "column": 1202,
                   "offset": 2180
                 }
+              },
+              "data": {
+                "stem": "what"
               }
             },
             {
@@ -16616,6 +17579,9 @@
                   "column": 1210,
                   "offset": 2188
                 }
+              },
+              "data": {
+                "stem": "follow"
               }
             },
             {
@@ -16665,6 +17631,9 @@
                   "column": 1214,
                   "offset": 2192
                 }
+              },
+              "data": {
+                "stem": "for"
               }
             },
             {
@@ -16714,6 +17683,9 @@
                   "column": 1225,
                   "offset": 2203
                 }
+              },
+              "data": {
+                "stem": "philosophi"
               }
             },
             {
@@ -16763,6 +17735,9 @@
                   "column": 1229,
                   "offset": 2207
                 }
+              },
+              "data": {
+                "stem": "and"
               }
             },
             {
@@ -16812,6 +17787,9 @@
                   "column": 1239,
                   "offset": 2217
                 }
+              },
+              "data": {
+                "stem": "cognit"
               }
             },
             {
@@ -16861,6 +17839,9 @@
                   "column": 1247,
                   "offset": 2225
                 }
+              },
+              "data": {
+                "stem": "scienc"
               }
             },
             {
@@ -16910,6 +17891,9 @@
                   "column": 1250,
                   "offset": 2228
                 }
+              },
+              "data": {
+                "stem": "if"
               }
             },
             {
@@ -16959,6 +17943,9 @@
                   "column": 1260,
                   "offset": 2238
                 }
+              },
+              "data": {
+                "stem": "relev"
               }
             },
             {
@@ -17008,6 +17995,9 @@
                   "column": 1267,
                   "offset": 2245
                 }
+              },
+              "data": {
+                "stem": "cannot"
               }
             },
             {
@@ -17057,6 +18047,9 @@
                   "column": 1270,
                   "offset": 2248
                 }
+              },
+              "data": {
+                "stem": "be"
               }
             },
             {
@@ -17106,6 +18099,9 @@
                   "column": 1281,
                   "offset": 2259
                 }
+              },
+              "data": {
+                "stem": "complet"
               }
             },
             {
@@ -17155,6 +18151,9 @@
                   "column": 1293,
                   "offset": 2271
                 }
+              },
+              "data": {
+                "stem": "naturalis"
               }
             },
             {
