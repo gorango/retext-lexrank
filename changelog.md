@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/gorango/retext-lexrank/compare/v1.1.0...v1.2.0) (2021-10-15)
+
+
+### Features
+
+* store word stems in WordNodes data ([7eb4754](https://github.com/gorango/retext-lexrank/commit/7eb4754b187d9de4a43b76392ca5f5f928f5450e))
+
 ## [1.1.0](https://github.com/gorango/retext-lexrank/compare/v1.0.2...v1.1.0) (2021-10-03)
 
 
