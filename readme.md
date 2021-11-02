@@ -122,8 +122,8 @@ Run `npm coverage` to produce a test coverage report.
 [coverage]: https://codecov.io/github/gorango/retext-lexrank
 [downloads-badge]: https://img.shields.io/npm/dm/retext-lexrank.svg
 [downloads]: https://www.npmjs.com/package/retext-lexrank
-[size-badge]: https://img.shields.io/bundlephobia/minzip/retext-lexrank.svg
-[size]: https://bundlephobia.com/result?p=retext-lexrank
+[size-badge]: https://badgen.net/packagephobia/publish/retext-lexrank
+[size]: https://packagephobia.com/result?p=retext-lexrank
 [retext]: https://github.com/retextjs/retext
 [pos]: https://github.com/retextjs/retext-pos
 [keywords]: https://github.com/retextjs/retext-keywords
