@@ -5,9 +5,7 @@ import { stemmer } from 'stemmer'
 export default lexrank
 
 function lexrank() {
-  return transformer
-
-  function transformer(tree, file) {
+  return function transformer(tree, file) {
     const scores = score(tree, getKeywords(file))
     visit(tree, collect(scores))
   }
@@ -15,10 +13,11 @@ function lexrank() {
 
 // keywords (optionally supplied with `retext-keywords`) yields more polarized results
 function getKeywords(file) {
-  return (file.data?.keywords || []).reduce((arr, { stem, score }, index, keywords) => {
-    const count = Math.round(score * (keywords.length - index))
-    return arr.concat(Array(count).fill(stem))
-  }, [])
+  return (file.data?.keywords || [])
+    .reduce((arr, { stem, score }, index, keywords) => {
+      const count = Math.round(score * (keywords.length - index))
+      return arr.concat(Array(count).fill(stem))
+    }, [])
 }
 
 function collect(scores) {
@@ -36,14 +35,13 @@ function collect(scores) {
 
 function score(tree, keywords) {
   const paragraphs = extract(tree)
-  const sentences = flatten(paragraphs)
+  const sentences = paragraphs.reduce((a, p) => [...a, ...p], [])
   const pScores = calculate(sentences)
 
-  if (paragraphs.length < 7) {
+  if (paragraphs.length < 4)
     return pScores
-  }
 
-  const sScores = flatten(paragraphs.map(calculate))
+  const sScores = paragraphs.reduce((a, p) => [...a, ...calculate(p)], [])
   return sScores.map((sScore, i) => (sScore + pScores[i]) / 2)
 
   function calculate(sentences) {
@@ -57,23 +55,20 @@ function score(tree, keywords) {
 
 function extract(tree) {
   return tree.children.reduce((paragraphs, node) => {
-    if (node.type !== 'ParagraphNode') {
+    if (node.type !== 'ParagraphNode')
       return paragraphs
-    }
 
     return [
       ...paragraphs,
       node.children.reduce((sentences, node) => {
-        if (node.type !== 'SentenceNode') {
+        if (node.type !== 'SentenceNode')
           return sentences
-        }
 
         return [
           ...sentences,
           node.children.reduce((words, node) => {
-            if (node.type !== 'WordNode') {
+            if (node.type !== 'WordNode')
               return words
-            }
 
             const stem = stemmer(toString(node))
             const data = node.data || {}
@@ -117,14 +112,11 @@ function normalize(arr) {
 }
 
 function tanimoto(a, b) {
-  if (!a.length && !b.length) return 0
+  if (!a.length && !b.length)
+    return 0
 
   const [A, B] = [new Set(a), new Set(b)]
   const intersection = new Set([...A].filter(x => B.has(x)))
   const inclusion = Array.from(intersection).length
   return inclusion / (a.length + b.length - inclusion) || 0
-}
-
-function flatten(arr) {
-  return arr.reduce((a, b) => [...a, ...b], [])
 }
