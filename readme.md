@@ -51,11 +51,11 @@ const processor = unified()
 
 # Example
 
-> **Disclaimer**
+> **Note**
 >
-> The `retext-lexrank` plugin works best on medium-to-long samples of text, like web articles, blogs, and essays. The following is not a perfect example.
+> The `retext-lexrank` plugin works best on medium-to-long samples of text, like web articles, blogs, and essays. The following is a simple example.
 
-We'll use the classic [wooorm/write-music][write-music] example from the [unifiedjs use-cases][unified-case].
+Using the classic [write-music][write-music] sample from the [unifiedjs use-cases][unified-case]:
 
 ### Write Music (by [Gary Provost](garyprovost.com))
 
