@@ -8,20 +8,18 @@ import keywords from 'retext-keywords'
 import latin from 'retext-latin'
 import lexrank from './index.js'
 
-test('Fixtures', function (t) {
-  const root = path.join('./fixtures')
+const root = path.join('./fixtures')
 
+test('Fixtures', function (t) {
   fs.readdirSync(root).forEach(async function (fixture) {
     const inputPath = path.join(root, fixture, 'input.txt')
     const outputPath = path.join(root, fixture, 'output.json')
     const file = readSync(inputPath, 'utf-8')
     const processor = unified().use(latin).use(lexrank)
-
     const actual = processor.parse(file)
     processor.run(actual, file)
 
     let expected
-
     try {
       expected = JSON.parse(fs.readFileSync(outputPath))
     } catch (error) {
@@ -29,42 +27,23 @@ test('Fixtures', function (t) {
       return
     }
 
-    // compareScores(t, actual, expected, true)
-
-    t.deepLooseEqual(actual, expected, 'should work on `' + fixture + '`')
+    t.deepLooseEqual(actual, expected, `should work on ${fixture}`)
   })
 
   t.end()
 })
 
-test('Use keywords', function (t) {
-  const fixture = path.join('./fixtures', 'vervake')
+test('Using retext-keywords for a different result', function (t) {
+  fs.readdirSync(root).forEach(async function (fixture) {
+    const inputPath = path.join(root, fixture, 'input.txt')
+    const outputPath = path.join(root, fixture, 'output.json')
+    const file = readSync(inputPath, 'utf-8')
+    const expected = JSON.parse(fs.readFileSync(outputPath))
+    const processor = unified().use(latin).use(pos).use(keywords).use(lexrank)
+    const actual = processor.parse(file)
+    processor.run(actual, file)
 
-  const inputPath = path.join(fixture, 'input.txt')
-  const outputPath = path.join(fixture, 'output.json')
-  const file = readSync(inputPath, 'utf-8')
-  const processor = unified().use(latin).use(pos).use(keywords).use(lexrank)
-
-  const actual = processor.parse(file)
-  const expected = JSON.parse(fs.readFileSync(outputPath))
-  processor.run(actual, file)
-
-  compareScores(t, actual, expected)
-
-  t.notDeepLooseEqual(actual, expected, 'should work on `' + fixture + '`')
+    t.notDeepLooseEqual(actual, expected, `should work on ${fixture}`)
+  })
   t.end()
 })
-
-function compareScores(t, actual, expected, match) {
-  actual.children.forEach(({ type, children }, i) => {
-    if (type === 'ParagraphNode') {
-      children.forEach((child, j) => {
-        if (child.type === 'SentenceNode') {
-          const ascore = child.data.lexrank
-          const escore = expected.children[i].children[j].data.lexrank
-          t[match ? 'equal' : 'notEqual'](ascore, escore)
-        }
-      })
-    }
-  })
-}
