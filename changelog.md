@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/gorango/retext-lexrank/compare/v1.2.1...v1.2.2) (2022-12-04)
+
+
+### Bug Fixes
+
+* exclude short sentences ([#9](https://github.com/gorango/retext-lexrank/issues/9)) ([507cebe](https://github.com/gorango/retext-lexrank/commit/507cebe550eee3a3f52b04450dcef26fc9a9ffa0))
+
 ### [1.2.1](https://github.com/gorango/retext-lexrank/compare/v1.2.0...v1.2.1) (2022-10-21)
 
 
