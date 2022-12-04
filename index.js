@@ -27,7 +27,7 @@ function collect(scores) {
     if (node.type === 'SentenceNode') {
       index = index + 1
       const data = node.data || {}
-      data.lexrank = scores[index]
+      data.lexrank = node.children.length <= 6 ? 0 : scores[index]
       node.data = data
     }
   }
