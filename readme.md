@@ -2,6 +2,7 @@
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
+[![Types][types-badge]][types]
 [![Size][size-badge]][size]
 
 [Retext][retext] plugin for generating unsupervised text summarization using the [Lexrank algorithm][paper].
@@ -120,6 +121,8 @@ Run `npm coverage` to produce a test coverage report.
 [build]: https://github.com/gorango/retext-lexrank/actions
 [coverage-badge]: https://img.shields.io/codecov/c/github/gorango/retext-lexrank.svg
 [coverage]: https://codecov.io/github/gorango/retext-lexrank
+[types-badge]: https://badgen.net/npm/types/retext-lexrank
+[types]: https://www.npmjs.com/package/retext-lexrank
 [downloads-badge]: https://img.shields.io/npm/dm/retext-lexrank.svg
 [downloads]: https://www.npmjs.com/package/retext-lexrank
 [size-badge]: https://badgen.net/packagephobia/publish/retext-lexrank
