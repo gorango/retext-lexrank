@@ -31,6 +31,66 @@ const tree = processor.parse(file)
 processor.run(tree, file)
 ```
 
+## Options
+
+`retext-lexrank` accepts an optional options object:
+
+```ts
+type Options = {
+  /**
+   * Maximum number of sentences per chunk.
+   *
+   * Defaults to `Infinity` (no chunking).
+   */
+  maxSentencesPerChunk?: number
+
+  /**
+   * Optional semantic chunk delimiter.
+   *
+   * If provided, matching paragraphs split the document into independent
+   * sections. Delimiter paragraphs are not scored.
+   */
+  delimiter?: string | RegExp | ((text: string, node: Paragraph) => boolean)
+}
+```
+
+### Large documents
+
+LexRank is based on pairwise sentence similarity and becomes expensive on very
+large inputs. For long documents (for example, books or manuals), use
+`maxSentencesPerChunk` to cap chunk size:
+
+```js
+const processor = unified().use(latin).use(lexrank, {
+  maxSentencesPerChunk: 500
+})
+```
+
+Chunking uses a balanced strategy so you do not end up with tiny tail chunks.
+For example, with 505 sentences and `maxSentencesPerChunk: 500`, the plugin
+splits into two balanced chunks instead of `500 + 5`.
+
+### Semantic chunking with delimiters
+
+If you have meaningful separators (for example chapter markers), use
+`delimiter` to split scoring by section:
+
+```js
+const processor = unified().use(latin).use(lexrank, {
+  delimiter: /^\[CHAPTER_BREAK\]$/
+})
+```
+
+You can also provide a custom function:
+
+```js
+const processor = unified().use(latin).use(lexrank, {
+  delimiter(text) {
+    return text.startsWith('Chapter ')
+  }
+})
+```
+
 ## Use with [`retext-keywords`][keywords]
 
 Adding the [part-of-speech][pos] and [keywords][keywords] plugins to the pipeline yields more polarized results.
