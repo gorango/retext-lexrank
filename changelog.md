@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/gorango/retext-lexrank/compare/v1.3.1...v1.4.0) (2026-04-26)
+
+
+### Features
+
+* add configurable and balanced chunked lexrank scoring ([96678de](https://github.com/gorango/retext-lexrank/commit/96678de7b8ab25622d67b85f223bc5f07109eee8))
+
+
+### Bug Fixes
+
+* add convergence-based stopping for lexrank power iteration ([dd7e342](https://github.com/gorango/retext-lexrank/commit/dd7e342e80287e973c010e897f56ac99e8101056))
+* align sentence scoring and assignment traversal ([c01f149](https://github.com/gorango/retext-lexrank/commit/c01f149b5a57b4b798e180f6dd89445bf9e506a0))
+* correct min-max normalization in lexrank scoring ([aed751a](https://github.com/gorango/retext-lexrank/commit/aed751a04f311ab060c76b91c5b3e4d13d4ff082))
+* correct tanimoto denominator for Jaccard similarity ([7aa8ffd](https://github.com/gorango/retext-lexrank/commit/7aa8ffd75471b98310a302cf352524d9f530a08e))
+* use word count for short sentence lexrank threshold ([28ce5e3](https://github.com/gorango/retext-lexrank/commit/28ce5e3c1a8cbca3e9fc00ba68939eaa7d7b0c91))
+
 ### [1.3.1](https://github.com/gorango/retext-lexrank/compare/v1.3.0...v1.3.1) (2024-09-07)
 
 ## [1.3.0](https://github.com/gorango/retext-lexrank/compare/v1.2.2...v1.3.0) (2024-08-26)
