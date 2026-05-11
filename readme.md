@@ -51,6 +51,18 @@ type Options = {
    * sections. Delimiter paragraphs are not scored.
    */
   delimiter?: string | RegExp | ((text: string, node: Paragraph) => boolean)
+
+  /**
+   * Abort signal to cancel processing mid-chunk.
+   */
+  signal?: AbortSignal
+
+  /**
+   * Callback fired after each chunk completes.
+   *
+   * Useful for progress reporting on large documents.
+   */
+  onChunkProgress?: (completed: number, total: number) => void
 }
 ```
 
@@ -64,6 +76,20 @@ large inputs. For long documents (for example, books or manuals), use
 const processor = unified().use(latin).use(lexrank, {
   maxSentencesPerChunk: 500
 })
+```
+
+The plugin is async and yields between chunks for non-blocking execution on
+large inputs. Use `signal` to abort long-running operations and `onChunkProgress`
+to report progress:
+
+```js
+const controller = new AbortController()
+
+processor.run(tree, file, { signal: controller.signal })
+
+lexrankPlugin({ onChunkProgress: (completed, total) => {
+  console.log(`Progress: ${completed}/${total}`)
+}})
 ```
 
 Chunking uses a balanced strategy so you do not end up with tiny tail chunks.
