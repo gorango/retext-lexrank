@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/gorango/retext-lexrank/compare/v1.4.0...v2.0.0) (2026-10-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* transformer now returns Promise<undefined> instead of
+undefined; users must use processor.run() instead of processor.runSync()
+
+### Features
+
+* make scoreByChunks async with AbortSignal and progress support ([d943dce](https://github.com/gorango/retext-lexrank/commit/d943dce7002e75feb1e65b6f084bd3ec59d7a663))
+
+
+### Bug Fixes
+
+* align published types with plugin options ([e1565aa](https://github.com/gorango/retext-lexrank/commit/e1565aa0f4fdf4621b2ef8bfe5b9fe0d619425a4))
+* avoid call-stack overflow when normalising large arrays ([132f57e](https://github.com/gorango/retext-lexrank/commit/132f57e66a6c3b25564c8804125bf8ae2f5bdb89))
+* compute a proper LexRank stationary distribution ([472eabc](https://github.com/gorango/retext-lexrank/commit/472eabc64757caa8c131fd182fa631aaf3fca25d))
+* honour the per-section max-score contract ([ac2e4ab](https://github.com/gorango/retext-lexrank/commit/ac2e4ab23c1d00bf1cddac8f4ea709444faa4134))
+
 ## [1.4.0](https://github.com/gorango/retext-lexrank/compare/v1.3.1...v1.4.0) (2026-04-26)
 
 
