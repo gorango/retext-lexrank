@@ -91,6 +91,33 @@ const processor = unified().use(latin).use(lexrank, {
 })
 ```
 
+### Scoring scope
+
+Scores are **section-relative, not document-relative**. Each
+delimiter-delimited section is scored on its own, and a section larger than
+`maxSentencesPerChunk` is further split into independent chunks. A sentence's
+score therefore describes how central it is *within its own section*; scores
+from different sections are not directly comparable. Delimiter paragraphs
+themselves are not scored and always receive `0`.
+
+This is a deliberate contract. A single stationary distribution over the whole
+document would be quadratic in document length and would make
+`maxSentencesPerChunk` meaningless, so scoring stays local to the unit being
+processed. Score the whole document in one section (no `delimiter`, no
+chunking) when you need globally comparable values.
+
+Every score is in `[0, 1]` and the highest-scoring sentence in a section always
+receives `1`.
+
+### Short sentences
+
+Sentences with fewer than three words are reported as `0`. They carry too
+little lexical content for a meaningful similarity score - headings, list
+labels, sign-offs, and fragments - so they are intentionally left unscored
+rather than allowed to inject noise into their section. The threshold is a word
+count (not a character count), so it is stable across languages with different
+word lengths.
+
 ## Use with [`retext-keywords`][keywords]
 
 Adding the [part-of-speech][pos] and [keywords][keywords] plugins to the pipeline yields more polarized results.
@@ -161,8 +188,8 @@ Running the above yields:
 
 ```
 [1.00]: I vary the sentence length, and I create music.
-[0.85]: And I use sentences of medium length.
-[0.71]: So write with a combination of short, medium, and long sentences.
+[0.92]: So write with a combination of short, medium, and long sentences.
+[0.90]: The writing is getting boring.
 ```
 
 # Tests
