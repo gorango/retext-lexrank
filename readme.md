@@ -51,6 +51,16 @@ type Options = {
    * sections. Delimiter paragraphs are not scored.
    */
   delimiter?: string | RegExp | ((text: string, node: Paragraph) => boolean)
+
+  /**
+   * Abort signal to cancel processing between chunks.
+   */
+  signal?: AbortSignal
+
+  /**
+   * Callback fired after each chunk completes.
+   */
+  onChunkProgress?: (completed: number, total: number) => void
 }
 ```
 
@@ -69,6 +79,12 @@ const processor = unified().use(latin).use(lexrank, {
 Chunking uses a balanced strategy so you do not end up with tiny tail chunks.
 For example, with 505 sentences and `maxSentencesPerChunk: 500`, the plugin
 splits into two balanced chunks instead of `500 + 5`.
+
+Processing is asynchronous: the transformer returns a promise and yields to the
+event loop between chunks, so it can be cancelled with `signal` and report
+progress with `onChunkProgress`. Note that scoring a single chunk is
+synchronous, so cancellation only takes effect at chunk boundaries; lower
+`maxSentencesPerChunk` if you need finer-grained responsiveness.
 
 ### Semantic chunking with delimiters
 
