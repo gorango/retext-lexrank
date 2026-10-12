@@ -28,8 +28,14 @@ const processor = unified()
 const file = '...' // vfile or text string
 const tree = processor.parse(file)
 
-processor.run(tree, file)
+await processor.run(tree, file)
 ```
+
+`retext-lexrank` is asynchronous: the transformer always returns a promise, so you
+must `await` `processor.run()` (or `processor.process()`). The synchronous
+`processor.runSync()` and `processor.processSync()` are **not supported** and
+throw `... finished async`. See [Migrating from v1](#migrating-from-v1) when
+upgrading.
 
 ## Options
 
@@ -81,10 +87,38 @@ For example, with 505 sentences and `maxSentencesPerChunk: 500`, the plugin
 splits into two balanced chunks instead of `500 + 5`.
 
 Processing is asynchronous: the transformer returns a promise and yields to the
-event loop between chunks, so it can be cancelled with `signal` and report
-progress with `onChunkProgress`. Note that scoring a single chunk is
-synchronous, so cancellation only takes effect at chunk boundaries; lower
-`maxSentencesPerChunk` if you need finer-grained responsiveness.
+event loop between chunks, so it can be cancelled and report progress. See
+[Cancellation and progress](#cancellation-and-progress).
+
+### Cancellation and progress
+
+Pass an `AbortSignal` to cancel processing at the next chunk boundary, and
+`onChunkProgress` to observe how many chunks have completed:
+
+```js
+const controller = new AbortController()
+
+const processor = unified()
+  .use(latin)
+  .use(lexrank, {
+    maxSentencesPerChunk: 500,
+    signal: controller.signal,
+    onChunkProgress: (completed, total) => {
+      console.log(`${completed}/${total} chunks`)
+    }
+  })
+
+const tree = processor.parse(file)
+await processor.run(tree, file)
+
+// Cancel a run that is still in flight:
+controller.abort()
+```
+
+An aborted run rejects with the signal's `AbortError`. Scoring happens
+synchronously within a chunk, so cancellation only takes effect at chunk
+boundaries; lower `maxSentencesPerChunk` if you need finer-grained
+responsiveness.
 
 ### Semantic chunking with delimiters
 
@@ -134,6 +168,20 @@ labels, sign-offs, and fragments - so they are intentionally left unscored
 rather than allowed to inject noise into their section. The threshold is a word
 count (not a character count), so it is stable across languages with different
 word lengths.
+
+### Migrating from v1
+
+`v2` makes the plugin asynchronous and revises scoring:
+
+- The transformer now always returns a promise, so the synchronous
+  `processor.runSync(tree, file)` and `processor.processSync(file)` throw. Use
+  `await processor.run(tree, file)` or `await processor.process(file)` instead.
+- Sentence scores changed. LexRank now uses a damped stationary distribution
+  (PageRank-style) and each section is rescaled so its top scoreable sentence is
+  `1`. Re-check any persisted scores or snapshots.
+
+The rest of the surface is unchanged: `maxSentencesPerChunk`, `delimiter`, the
+`[0, 1]` range, and the `lexrank` field on `SentenceNode.data`.
 
 ## Use with [`retext-keywords`][keywords]
 
