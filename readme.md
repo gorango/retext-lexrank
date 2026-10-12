@@ -122,8 +122,9 @@ document would be quadratic in document length and would make
 processed. Score the whole document in one section (no `delimiter`, no
 chunking) when you need globally comparable values.
 
-Every score is in `[0, 1]` and the highest-scoring sentence in a section always
-receives `1`.
+Every score is in `[0, 1]` and the highest-scoring scoreable sentence in a
+section always receives `1` (a section with no scoreable sentence reports all
+`0`).
 
 ### Short sentences
 
